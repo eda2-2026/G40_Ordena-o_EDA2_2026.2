@@ -1,0 +1,1001 @@
+id_game,name,id_genre,id_publisher,year_of_release,developer,platform,na_sales,eu_Sales,jp_sales,other_sales,critic_score,critic_count,user_score,user_count,rating
+1,".hack//G.U. Vol.1//Rebirth",4,4239,2006,NULL,PS2,0.00,0.00,0.17,0.00,NULL,NULL,NULL,NULL,NULL
+2,".hack//G.U. Vol.2//Reminisce",4,4239,2006,NULL,PS2,0.11,0.09,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+3,".hack//G.U. Vol.2//Reminisce (jp sales)",4,4239,2006,NULL,PS2,0.00,0.00,0.16,0.00,NULL,NULL,NULL,NULL,NULL
+4,".hack//G.U. Vol.3//Redemption",4,4239,2007,NULL,PS2,0.00,0.00,0.17,0.00,NULL,NULL,NULL,NULL,NULL
+5,".hack//Infection Part 1",4,4507,2002,CyberConnect2,PS2,0.49,0.38,0.26,0.13,75,35,8.5,60,T
+6,.hack//Link,4,4239,2010,NULL,PSP,0.00,0.00,0.14,0.00,NULL,NULL,NULL,NULL,NULL
+7,".hack//Mutation Part 2",4,4507,2002,CyberConnect2,PS2,0.23,0.18,0.20,0.06,76,24,8.9,81,T
+8,".hack//Outbreak Part 3",4,4507,2002,CyberConnect2,PS2,0.14,0.11,0.17,0.04,70,23,8.7,19,T
+9,".hack//Quarantine Part 4: The Final Chapter",4,4507,2003,NULL,PS2,0.09,0.07,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+10,".hack: Sekai no Mukou ni + Versus",9,4239,2012,NULL,PS3,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+11,"007 Racing",3,4116,2000,Eutechnyx,PS,0.30,0.20,0.00,0.03,51,16,4.6,14,T
+12,"007: Quantum of Solace",9,4336,2008,NULL,PS2,0.17,0.00,0.00,0.26,NULL,NULL,NULL,NULL,NULL
+13,"007: Quantum of Solace",9,4336,2008,Treyarch,PC,0.01,0.01,0.00,0.00,70,18,6.3,55,T
+14,"007: Quantum of Solace",9,4336,2008,Treyarch,PS3,0.43,0.51,0.02,0.19,65,42,6.6,47,T
+15,"007: Quantum of Solace",9,4336,2008,Treyarch,Wii,0.29,0.28,0.01,0.07,54,11,7.5,26,T
+16,"007: Quantum of Solace",9,4336,2008,Treyarch,X360,0.82,0.51,0.01,0.14,65,69,7.1,71,T
+17,"007: Quantum of Solace",9,4336,2008,"Vicarious Visions",DS,0.11,0.01,0.00,0.01,65,10,tbd,NULL,T
+18,"007: The World is not Enough",9,4116,2000,NULL,N64,1.13,0.38,0.02,0.03,NULL,NULL,NULL,NULL,NULL
+19,"007: The World is not Enough",9,4116,2000,"Black Ops Entertainment",PS,0.51,0.35,0.00,0.06,61,11,6.7,44,T
+20,"007: Tomorrow Never Dies",7,4116,1999,NULL,PS,1.72,1.33,0.00,0.16,NULL,NULL,NULL,NULL,NULL
+21,"1 vs. 100",6,5226,2008,ECI,DS,0.08,0.00,0.00,0.01,38,5,3.2,5,E
+22,"10 Minute Solution",1,4336,2010,"Anchor Bay Entertainment",Wii,0.06,0.01,0.00,0.01,NULL,NULL,tbd,NULL,E
+23,"100 All-Time Favorites",5,4106,2009,Ubisoft,DS,0.35,0.12,0.00,0.04,NULL,NULL,6.2,6,E
+24,"100 Classic Books",6,4095,2008,"Genius Sonority Inc.",DS,0.12,0.52,0.00,0.02,70,7,6,12,NULL
+25,"1000 Cooking Recipes from ELLE à table",6,4095,2010,NULL,DS,0.00,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+26,"101-in-1 Explosive Megamix",5,5078,2008,Nordcurrent,DS,0.05,0.12,0.00,0.02,46,13,tbd,NULL,E
+27,"101-in-1 Party Megamix Wii",6,5078,2009,NULL,Wii,0.19,0.01,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+28,"101-in-1 Sports Megamix",1,5078,2010,Nordcurrent,DS,0.08,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+29,"101-in-1 Sports Party Megamix",1,5078,2010,Nordcurrent,Wii,0.02,0.00,0.00,0.00,41,7,tbd,NULL,E10+
+30,"1080°: TenEighty Snowboarding",1,4095,1998,NULL,N64,1.25,0.61,0.13,0.05,NULL,NULL,NULL,NULL,NULL
+31,"11eyes: CrossOver",11,5103,2009,NULL,X360,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+32,"11eyes: CrossOver",11,5103,2010,NULL,PSP,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+33,"15 Days",11,5405,2009,"DTP Entertainment",PC,0.00,0.01,0.00,0.00,63,6,5.8,8,NULL
+34,"1701 A.D.",8,5128,2006,"Related Designs",PC,0.00,0.25,0.00,0.04,79,30,8.3,38,E10+
+35,"187: Ride or Die",3,4106,2005,Ubisoft,PS2,0.07,0.06,0.00,0.02,52,33,6.8,12,M
+36,"187: Ride or Die",3,4106,2005,"Ubisoft Paris",XB,0.05,0.01,0.00,0.00,51,40,6.9,8,M
+37,1942,7,4142,1985,NULL,NES,0.65,0.14,0.21,0.00,NULL,NULL,NULL,NULL,NULL
+38,"2 Games in 1 Double Pack: Hot Wheels Velocity X / Hot Wheels World Race",3,4260,2005,NULL,GBA,0.09,0.03,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+39,"2 Games in 1 Double Pack: The Incredibles / Finding Nemo: The Continuing Adventures",9,4260,2007,NULL,GBA,1.26,0.47,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+40,"2 Games in 1: Disney Princess & The Lion King",6,4260,2004,NULL,GBA,1.25,0.46,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+41,"2 Games in 1: Disney's Brother Bear / The Lion King 1 1/2",9,4260,2005,NULL,GBA,0.22,0.08,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+42,"2 Games in 1: Sonic Advance & ChuChu Rocket!",6,4260,2005,NULL,GBA,1.31,0.49,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+43,"2 Games in 1: Sonic Battle & ChuChu Rocket!",6,4260,2005,NULL,GBA,0.44,0.16,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+44,"2 Games in 1: Sonic Pinball Party & Columns Crown",6,4274,2005,NULL,GBA,0.04,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+45,"2 Games in 1: SpongeBob SquarePants: SuperSponge & Rugrats Go Wild",2,4260,2005,NULL,GBA,0.33,0.12,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+46,"2 in 1 Combo Pack: Sonic Heroes / Super Monkey Ball Deluxe",6,4274,2004,NULL,XB,0.40,0.11,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+47,"2 in 1 Combo Pack: Sonic Heroes / Super Monkey Ball Deluxe",6,4106,2013,NULL,X360,0.09,0.01,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+48,"2-in-1 Game Pack: Spider-Man & Spider-Man 2",2,4336,2005,NULL,GBA,0.06,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+49,"2002 FIFA World Cup",1,4116,2002,"EA Sports",GC,0.04,0.01,0.00,0.00,78,9,7.7,6,E
+50,"2002 FIFA World Cup",1,4116,2002,"EA Sports",PS2,0.21,0.17,0.16,0.06,73,19,5.6,18,E
+51,"2002 FIFA World Cup",1,4116,2002,"Software Creations",XB,0.14,0.04,0.00,0.01,79,17,9,4,E
+52,"2010 FIFA World Cup South Africa",1,4116,2010,"EA Canada",PS3,0.30,0.64,0.07,0.22,82,56,7.8,57,E
+53,"2010 FIFA World Cup South Africa",1,4116,2010,"Electronic Arts",PSP,0.09,0.22,0.03,0.12,69,11,7.4,9,E
+54,"2010 FIFA World Cup South Africa",1,4116,2010,"Electronic Arts",Wii,0.23,0.15,0.01,0.04,70,19,6.7,11,E
+55,"2010 FIFA World Cup South Africa",1,4116,2010,"Electronic Arts",X360,0.32,0.42,0.02,0.09,83,61,8.1,58,E
+56,"2014 FIFA World Cup Brazil",1,4116,2014,"EA Canada",PS3,0.15,0.36,0.01,0.09,73,33,4.3,87,E
+57,"2014 FIFA World Cup Brazil",1,4116,2014,"EA Canada",X360,0.15,0.25,0.00,0.03,74,29,4.4,93,E
+58,"25 to Life",7,4877,2006,"Ritual Entertainment, Avalanche Software",PS2,0.35,0.01,0.00,0.06,39,23,4.9,46,M
+59,"25 to Life",7,4877,2006,"Ritual Entertainment, Avalanche Software",XB,0.12,0.04,0.00,0.01,41,20,7.2,13,M
+60,"3 in 1: Solitaire, Mahjong & Tangram",6,5128,2010,NULL,DS,0.00,0.07,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+61,"300: March to Glory",9,5180,2007,"Collision Studios",PSP,0.27,0.08,0.00,0.07,55,31,7.1,14,M
+62,"3D Dot Game Heroes",4,5553,2009,"Silicon Studio",PS3,0.36,0.11,0.03,0.07,77,66,8,96,E10+
+63,"3D Lemmings",5,4787,1995,NULL,PS,0.03,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+64,"3DS Classic Collection",6,4274,2016,NULL,3DS,0.03,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+65,"3rd Super Robot Wars Z Jigoku Hen",4,4239,2014,NULL,PS3,0.00,0.00,0.23,0.00,NULL,NULL,NULL,NULL,NULL
+66,"3rd Super Robot Wars Z Jigoku Hen",4,4239,2014,NULL,PSV,0.00,0.00,0.19,0.00,NULL,NULL,NULL,NULL,NULL
+67,"3rd Super Robot Wars Z: Tengoku-Hen",9,4239,2015,NULL,PS3,0.00,0.00,0.15,0.00,NULL,NULL,NULL,NULL,NULL
+68,"3rd Super Robot Wars Z: Tengoku-Hen",9,4239,2015,NULL,PSV,0.00,0.00,0.19,0.00,NULL,NULL,NULL,NULL,NULL
+69,"4 Elements",5,5666,2009,"Playrix Entertainment",PC,0.00,0.04,0.00,0.01,NULL,NULL,7.4,19,E
+70,"4 Game Fun Pack: Monopoly / Boggle / Yahtzee / Battleship",6,4507,2005,NULL,DS,0.10,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+71,"4 Nin uchi Mahjong",6,4095,1984,NULL,NES,0.00,0.00,1.45,0.00,NULL,NULL,NULL,NULL,NULL
+72,"4 Play Collection - Dark Mysteries",6,4480,2014,NULL,PC,0.00,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+73,"428: Fuusa Sareta Shibuya de",11,4274,2008,NULL,Wii,0.00,0.00,0.13,0.00,NULL,NULL,NULL,NULL,NULL
+74,"428: Fuusa Sareta Shibuya de",11,4350,2009,NULL,PS3,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+75,"428: Fuusa Sareta Shibuya de",11,4350,2009,NULL,PSP,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+76,"4x4 EVO 2",3,5073,2002,"Terminal Reality",GC,0.11,0.03,0.00,0.00,56,7,tbd,NULL,E
+77,"50 Cent: Blood on the Sand",7,4260,2009,"Swordfish Studios",PS3,0.10,0.06,0.01,0.03,72,37,7.2,57,M
+78,"50 Cent: Blood on the Sand",7,4260,2009,"Swordfish Studios",X360,0.12,0.07,0.00,0.02,71,54,6.4,64,M
+79,"50 Cent: Bulletproof",9,5073,2005,"Genuine Games",PS2,0.85,0.76,0.00,0.16,47,21,6.6,129,M
+80,"50 Cent: Bulletproof",9,5073,2005,"Genuine Games",XB,0.33,0.10,0.00,0.02,50,14,5.9,21,M
+81,"50 Cent: Bulletproof",9,5073,2006,NULL,PSP,0.08,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+82,"50 Classic Games",6,4705,2009,"Cerasus Media",DS,0.50,0.00,0.00,0.04,NULL,NULL,tbd,NULL,E
+83,"50 Classic Games",6,4480,2012,NULL,3DS,0.00,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+84,"64 de Hakken! Tamagotchi Minna de Tamagotchi World",6,4239,1997,NULL,N64,0.00,0.00,0.22,0.00,NULL,NULL,NULL,NULL,NULL
+85,"7 Days to Die",9,4940,2016,"The Fun Pimps Entertainment LLC",PS4,0.04,0.08,0.00,0.02,45,16,5.9,140,M
+86,"7 Days to Die",9,4940,2016,"The Fun Pimps Entertainment LLC",XOne,0.03,0.02,0.00,0.00,35,17,5.2,74,M
+87,"7 Roses: A Darkness Rises",6,4480,2015,NULL,PC,0.00,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+88,7'scarlet,11,5319,2016,NULL,PSV,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+89,"7th Dragon",4,4274,2009,NULL,DS,0.00,0.00,0.14,0.00,NULL,NULL,NULL,NULL,NULL
+90,"7th Dragon 2020",4,4274,2011,NULL,PSP,0.00,0.00,0.20,0.00,NULL,NULL,NULL,NULL,NULL
+91,"7th Dragon 2020-II",4,4274,2013,NULL,PSP,0.00,0.00,0.13,0.00,NULL,NULL,NULL,NULL,NULL
+92,"7th Dragon III Code: VFD",4,4274,2015,Sega,3DS,0.04,0.00,0.12,0.00,77,26,8.2,38,T
+93,"99 no Namida",11,4239,2008,NULL,DS,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+94,"999: Nine Hours, Nine Persons, Nine Doors",11,4290,2009,NULL,DS,0.31,0.00,0.03,0.02,NULL,NULL,NULL,NULL,NULL
+95,"A Bug's Life",2,4336,1998,NULL,N64,0.49,0.13,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+96,"A Collection of Activision Classic Games for the Atari 2600",6,4336,1998,NULL,PS,0.76,0.52,0.00,0.09,NULL,NULL,NULL,NULL,NULL
+97,"A Collection of Classic Games from the Intellivision",6,4336,1999,NULL,PS,0.17,0.12,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+98,"A New Beginning",11,5128,2010,NULL,PC,0.00,0.05,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+99,"A Ressha de Gyoukou 2001",8,4904,2001,NULL,PS2,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+100,"A Ressha de Ikou DS",8,4904,2009,NULL,DS,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+101,"A Witch's Tale",4,4673,2009,"Nippon Ichi Software, Hit Maker",DS,0.08,0.00,0.03,0.01,50,17,6.2,9,E10+
+102,"A-Train 6",12,5494,2000,NULL,PS2,0.00,0.00,0.06,0.00,NULL,NULL,NULL,NULL,NULL
+103,"A-Train: City Simulator",8,4904,2014,Artdink,3DS,0.00,0.00,0.06,0.00,65,4,tbd,NULL,E10+
+104,"A. IV Evolution: A Ressha de Ikou 4",12,4904,1994,NULL,PS,0.00,0.00,0.24,0.02,NULL,NULL,NULL,NULL,NULL
+105,"A.C.E.: Another Century's Episode",8,4918,2005,NULL,PS2,0.00,0.00,0.26,0.00,NULL,NULL,NULL,NULL,NULL
+106,"A.C.E.: Another Century's Episode 2",8,4918,2006,NULL,PS2,0.00,0.00,0.18,0.00,NULL,NULL,NULL,NULL,NULL
+107,"A.C.E.: Another Century's Episode 3: The Final",8,4918,2007,NULL,PS2,0.00,0.00,0.26,0.00,NULL,NULL,NULL,NULL,NULL
+108,"A.C.E.: Another Century's Episode Portable",8,4239,2011,NULL,PSP,0.00,0.00,0.12,0.00,NULL,NULL,NULL,NULL,NULL
+109,"A.C.E.: Another Century's Episode R",8,4239,2010,NULL,PS3,0.00,0.00,0.26,0.00,NULL,NULL,NULL,NULL,NULL
+110,"ABBA: You Can Dance",6,4106,2011,Ubisoft,Wii,0.18,0.49,0.00,0.10,66,5,tbd,NULL,E10+
+111,"Academy of Champions: Soccer",1,4106,2009,"Ubisoft Vancouver",Wii,0.09,0.02,0.00,0.01,64,20,6.8,14,E
+112,"Accel World: Ginyoku no Kakusei",11,4239,2012,NULL,PS3,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+113,"Accel World: Ginyoku no Kakusei",11,4239,2012,NULL,PSP,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+114,"Accel World: Kasoku no Chouten",11,4239,2013,NULL,PS3,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+115,"Accel World: Kasoku no Chouten",11,4239,2013,NULL,PSP,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+116,"Ace Attorney 6",11,4142,2016,NULL,3DS,0.00,0.00,0.27,0.00,NULL,NULL,NULL,NULL,NULL
+117,"Ace Attorney Investigations 2",11,4142,2011,NULL,DS,0.00,0.00,0.26,0.00,NULL,NULL,NULL,NULL,NULL
+118,"Ace Attorney Investigations: Miles Edgeworth",11,4142,2009,Capcom,DS,0.23,0.14,0.30,0.04,78,51,8.4,79,T
+119,"Ace Combat 6: Fires of Liberation",8,4507,2007,"Project Aces",X360,0.69,0.04,0.22,0.06,80,54,7.9,101,T
+120,"Ace Combat X: Skies of Deception",8,4239,2006,"Project Aces",PSP,0.37,0.30,0.12,0.19,75,26,8.3,30,T
+121,"Ace Combat Zero: The Belkan War",8,4239,2006,Namco,PS2,0.15,0.12,0.20,0.04,75,45,8.4,55,T
+122,"Ace Combat: Assault Horizon",9,4239,2011,"Project Aces",PS3,0.30,0.15,0.22,0.07,77,28,6.7,82,T
+123,"Ace Combat: Assault Horizon",9,4239,2011,"Project Aces",X360,0.30,0.12,0.03,0.04,78,71,6.2,82,T
+124,"Ace Combat: Assault Horizon Legacy",8,4239,2011,"Project Aces",3DS,0.10,0.06,0.08,0.01,71,37,7.8,26,T
+125,"Ace Combat: Joint Assault",8,4239,2010,"Project Aces",PSP,0.06,0.05,0.15,0.03,71,30,7.2,12,T
+126,"Action Bass",9,4843,2000,"Vingt-et-un Systems",PS,0.64,0.43,0.00,0.07,51,8,tbd,NULL,E
+127,"Active Health with Carol Vorderman",1,4095,2009,NULL,DS,0.00,0.18,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+128,"Active Life Explorer",1,4239,2010,"h.a.n.d. Inc.",Wii,0.13,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+129,"Active Life: Extreme Challenge",1,4239,2009,TOSE,Wii,0.14,0.27,0.00,0.06,56,13,tbd,NULL,E
+130,"Active Life: Magical Carnival",6,4239,2011,"Bandai Namco Games",Wii,0.03,0.01,0.00,0.00,NULL,NULL,tbd,NULL,E
+131,"Active Life: Outdoor Challenge",1,4507,2008,"h.a.n.d. Inc.",Wii,0.78,0.43,0.19,0.14,69,6,8.1,14,E
+132,"Activision Anthology",6,4336,2002,"Contraband Entertainment",PS2,0.25,0.19,0.00,0.06,75,13,7.7,6,E
+133,"Activision Anthology",6,4336,2003,Aspyr,GBA,0.03,0.01,0.00,0.00,79,13,tbd,NULL,E
+134,"Activision Hits: Remixed",6,4336,2006,"Digital Eclipse",PSP,0.05,0.00,0.00,0.00,75,10,tbd,NULL,E
+135,"Adidas Power Soccer",1,4787,1996,NULL,PS,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+136,"Adidas Power Soccer 98",1,4787,1998,NULL,PS,0.01,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+137,"Advance Guardian Heroes",4,4106,2004,Treasure,GBA,0.03,0.01,0.00,0.00,65,25,tbd,NULL,E
+138,"Advance Wars",12,4095,2001,"Intelligent Systems",GBA,0.50,0.19,0.00,0.01,92,28,9,95,E
+139,"Advance Wars 2: Black Hole Rising",12,4095,2003,"Intelligent Systems",GBA,0.47,0.17,0.00,0.01,89,34,9.4,97,E
+140,"Advance Wars: Days of Ruin",12,4095,N/A,"Intelligent Systems",DS,0.43,0.12,0.00,0.05,86,55,8.7,96,E10+
+141,"Advance Wars: Dual Strike",12,4095,2005,"Intelligent Systems",DS,0.30,0.02,0.04,0.03,90,49,9,163,E
+142,"Advent Rising",9,4260,2005,"GlyphX Games",XB,0.10,0.03,0.00,0.00,68,50,7.5,68,T
+143,Adventure,11,4507,N/A,NULL,2600,1.21,0.08,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+144,"Adventure Island",2,4110,1986,NULL,NES,0.00,0.00,1.05,0.00,NULL,NULL,NULL,NULL,NULL
+145,"Adventure Time: Explore the Dungeon Because I Don't Know!",9,4786,2013,NULL,3DS,0.10,0.03,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+146,"Adventure Time: Explore the Dungeon Because I Don't Know!",9,4786,2013,NULL,PS3,0.02,0.01,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+147,"Adventure Time: Explore the Dungeon Because I Don't Know!",9,4786,2013,NULL,WiiU,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+148,"Adventure Time: Explore the Dungeon Because I Don't Know!",9,4786,2013,NULL,X360,0.03,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+149,"Adventure Time: Finn & Jake Investigations",9,5385,2015,NULL,3DS,0.03,0.05,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+150,"Adventure Time: Finn & Jake Investigations",9,5385,2015,NULL,PS3,0.02,0.05,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+151,"Adventure Time: Finn & Jake Investigations",9,5385,2015,NULL,PS4,0.03,0.05,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+152,"Adventure Time: Finn & Jake Investigations",9,5385,2015,NULL,WiiU,0.03,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+153,"Adventure Time: Finn & Jake Investigations",9,5385,2015,NULL,X360,0.03,0.05,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+154,"Adventure Time: Finn & Jake Investigations",9,5385,2015,NULL,XOne,0.03,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+155,"Adventure Time: The Secret of the Nameless",11,5385,2014,NULL,3DS,0.01,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+156,"Adventure Time: The Secret of the Nameless",11,5385,2014,NULL,X360,0.01,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+157,"Adventure Time: The Secret of the Nameless Kingdom",9,5385,2014,WayForward,3DS,0.00,0.07,0.00,0.00,65,5,5.6,8,E10+
+158,"Adventure Time: The Secret of the Nameless Kingdom",9,5385,2014,WayForward,X360,0.00,0.05,0.00,0.00,58,5,7.5,4,E10+
+159,"Aedis Eclipse: Generation of Chaos",4,5319,2006,"Neverland, Idea Factory",PSP,0.02,0.00,0.00,0.00,62,20,6.5,11,E10+
+160,"Aegis of Earth: Protonovus Assault",9,5601,2016,Acquire,PS3,0.01,0.01,0.00,0.00,NULL,NULL,tbd,NULL,T
+161,"Aegis of Earth: Protonovus Assault",9,5601,2016,Acquire,PS4,0.02,0.00,0.00,0.00,57,11,7.8,9,T
+162,"Aegis of Earth: Protonovus Assault",9,5601,2016,Acquire,PSV,0.01,0.01,0.00,0.01,NULL,NULL,8.3,8,T
+163,"Aeon Flux",9,4260,2005,"Terminal Reality",PS2,0.02,0.02,0.00,0.01,66,19,5.8,9,T
+164,"Aeon Flux",9,4260,2005,"Terminal Reality",XB,0.01,0.00,0.00,0.00,69,27,3,4,T
+165,"Aero Elite: Combat Academy",8,4274,2002,"Sega AM2",PS2,0.04,0.03,0.00,0.01,64,18,7,8,E
+166,"Afro Samurai",9,4507,2009,"Namco Bandai Games America, Namco Bandai Games",PS3,0.12,0.05,0.00,0.03,65,52,6.1,27,M
+167,"Afro Samurai",9,4507,2009,"Namco Bandai Games America, Namco Bandai Games",X360,0.16,0.05,0.00,0.02,65,70,6.2,57,M
+168,"Agarest Senki: Re-appearance",4,5319,N/A,NULL,PS3,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+169,"Agassi Tennis Generation",1,5614,2003,"Aqua Pacific",PS2,0.04,0.03,0.00,0.01,NULL,NULL,6,4,E
+170,"Agatha Christie's The ABC Murders",11,5322,2016,Microids,PS4,0.01,0.01,0.00,0.00,67,17,6.2,12,T
+171,"Agatha Christie's The ABC Murders",11,5322,2016,Microids,XOne,0.01,0.00,0.00,0.00,66,7,7.5,8,NULL
+172,"Agatha Christie: Death on the Nile",11,5628,2008,"Oberon Media",PC,0.00,0.01,0.00,0.00,NULL,NULL,tbd,NULL,T
+173,"Agatha Christie: The ABC Murders",11,5322,2016,"Artefacts Studio",PC,0.00,0.02,0.00,0.00,66,15,8.5,144,NULL
+174,"Age of Conan: Rise of the Godslayer",4,5123,2010,Funcom,PC,0.00,0.02,0.00,0.00,83,14,8.4,52,M
+175,"Age of Empires II: The Age of Kings",12,4470,1999,"Ensemble Studios",PC,0.01,0.08,0.00,0.01,92,21,9,801,T
+176,"Age of Empires III",12,4470,2005,"Ensemble Studios",PC,0.00,0.33,0.00,0.05,81,52,7.7,519,T
+177,"Age of Empires III: Complete Collection",12,4470,2009,"Microsoft Game Studios",PC,0.01,0.12,0.00,0.03,NULL,NULL,8.5,41,T
+178,"Age of Empires III: Gold Edition",12,4470,2007,"Ensemble Studios",PC,0.00,0.02,0.00,0.00,NULL,NULL,7.8,6,T
+179,"Age of Empires III: The Asian Dynasties",12,4470,2007,"Big Huge Games",PC,0.00,0.05,0.00,0.01,81,19,8.5,71,T
+180,"Age of Empires Online",12,4470,2011,"Gas Powered Games",PC,0.01,0.04,0.00,0.01,70,44,5.6,186,E10+
+181,"Age of Empires: Collector's Edition",12,4106,2000,"Ensemble Studios",PC,0.02,0.10,0.00,0.02,NULL,NULL,8,6,T
+182,"Age of Empires: Mythologies",12,4260,2008,"Griptonite Games",DS,0.16,0.03,0.00,0.02,78,28,6.9,20,E10+
+183,"Age of Empires: The Age of Kings",12,4260,2006,"Backbone Entertainment",DS,0.18,0.02,0.00,0.02,80,38,7.9,59,E10+
+184,"Age of Mythology",12,4470,2002,"Ensemble Studios",PC,0.02,0.06,0.00,0.01,89,31,8.9,484,T
+185,"Age of Mythology: The Titans",12,4470,2003,"Ensemble Studios",PC,0.02,0.02,0.00,0.00,84,25,8.7,119,T
+186,"Aidyn Chronicles: The First Mage",4,4260,2001,NULL,N64,0.08,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+187,"Aikatsu Stars! My Special Appeal",9,4239,2016,NULL,3DS,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+188,"Aikatsu! 2-nin no My Princess",9,4239,2013,NULL,3DS,0.00,0.00,0.26,0.00,NULL,NULL,NULL,NULL,NULL
+189,"Aikatsu! 365 Idol Days",11,4239,2014,NULL,3DS,0.00,0.00,0.13,0.00,NULL,NULL,NULL,NULL,NULL
+190,"Aikatsu! Cinderella Lesson",4,4239,2012,NULL,3DS,0.00,0.00,0.20,0.00,NULL,NULL,NULL,NULL,NULL
+191,"Aikatsu! My No.1 Stage!",6,4239,2015,NULL,3DS,0.00,0.00,0.08,0.00,NULL,NULL,NULL,NULL,NULL
+192,"Ailu de Puzzle",9,4142,2012,NULL,PSP,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+193,"Air-Sea Battle",7,4507,N/A,NULL,2600,0.91,0.06,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+194,"Airline Tycoon",8,5463,2000,Spellbound,PC,0.00,0.01,0.00,0.00,NULL,NULL,8,9,E
+195,"Airship Q",2,4540,2015,NULL,PSV,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+196,"Akai Katana Shin",7,4930,2011,NULL,X360,0.04,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+197,"Akatsuki no Goei Trinity",11,5103,2012,NULL,PS3,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+198,"Akatsuki no Goei Trinity",11,5103,2012,NULL,PSP,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+199,"AKB1/149: Love Election",11,4239,2012,NULL,PSP,0.00,0.00,0.23,0.00,NULL,NULL,NULL,NULL,NULL
+200,"AKB1/149: Love Election",11,4239,2012,NULL,PSV,0.00,0.00,0.07,0.00,NULL,NULL,NULL,NULL,NULL
+201,"AKB1/149: Love Election",11,4239,2013,NULL,PS3,0.00,0.00,0.08,0.00,NULL,NULL,NULL,NULL,NULL
+202,"AKB1/48: Idol to Guam de Koishitara...",6,4239,2011,NULL,PSP,0.00,0.00,0.40,0.00,NULL,NULL,NULL,NULL,NULL
+203,"AKB1/48: Idol to Koishitara...",6,4239,2010,NULL,PSP,0.00,0.00,0.41,0.00,NULL,NULL,NULL,NULL,NULL
+204,"Akiba's Trip",11,4292,2011,NULL,PSP,0.00,0.00,0.14,0.00,NULL,NULL,NULL,NULL,NULL
+205,"Akiba's Trip Plus",11,4292,2012,NULL,PSP,0.00,0.00,0.08,0.00,NULL,NULL,NULL,NULL,NULL
+206,"Akiba's Trip: Undead & Undressed",9,4673,2013,NULL,PS3,0.05,0.01,0.04,0.01,NULL,NULL,NULL,NULL,NULL
+207,"Akiba's Trip: Undead & Undressed",9,4673,2013,NULL,PSV,0.04,0.02,0.08,0.01,NULL,NULL,NULL,NULL,NULL
+208,"Akiba's Trip: Undead & Undressed",9,4292,2014,NULL,PS4,0.08,0.00,0.01,0.02,NULL,NULL,NULL,NULL,NULL
+209,"Akuji the Heartless",2,4877,1998,NULL,PS,0.07,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+210,"Alan Wake",9,4470,2010,"Remedy Entertainment",X360,0.66,0.50,0.05,0.13,83,100,8.1,1156,T
+211,"Alex Rider: Stormbreaker",9,4260,N/A,Altron,DS,0.06,0.00,0.00,0.00,48,11,6.1,10,T
+212,"Alexi Lalas International Soccer",1,4843,1998,NULL,PS,0.04,0.03,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+213,"Alfa Romeo Racing Italiano",3,5762,2005,"Milestone S.r.l",PS2,0.01,0.01,0.00,0.00,NULL,NULL,6.8,5,E
+214,"Alice in Wonderland",11,4538,2010,"Etranges Libellules",DS,0.25,0.17,0.00,0.04,78,24,tbd,NULL,E10+
+215,"Alice in Wonderland",11,4538,2010,"Etranges Libellules",Wii,0.25,0.21,0.00,0.05,69,18,7.4,13,E10+
+216,"Alice: Madness Returns",11,4116,2011,"Spicy Horse",PC,0.00,0.10,0.00,0.02,75,29,8.4,559,M
+217,"Alice: Madness Returns",11,4116,2011,"Spicy Horse",PS3,0.22,0.24,0.04,0.08,70,51,7.9,181,M
+218,"Alice: Madness Returns",11,4116,2011,"Spicy Horse",X360,0.27,0.14,0.04,0.04,70,67,8.1,157,M
+219,"Alien Breed Trilogy",7,5666,2011,NULL,X360,0.00,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+220,"Alien Hominid",7,5718,2004,"The Behemoth",PS2,0.05,0.04,0.00,0.01,78,47,8.3,13,T
+221,"Alien Monster Bowling League",1,4705,2009,Destineer,Wii,0.09,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+222,"Alien Resurrection",7,4188,2000,"Argonaut Games",PS,0.09,0.06,0.00,0.01,61,12,7.5,15,M
+223,"Alien Syndrome",4,4274,2007,"Totally Games",PSP,0.07,0.00,0.00,0.01,51,20,6,9,T
+224,"Alien Syndrome",4,4274,2007,"Totally Games",Wii,0.05,0.00,0.00,0.00,48,24,7.1,23,T
+225,"Alien: Isolation",7,4274,2014,"Creative Assembly",PC,0.00,0.14,0.00,0.01,81,41,8.4,1588,M
+226,"Alien: Isolation",7,4274,2014,"Creative Assembly",PS3,0.12,0.16,0.00,0.05,NULL,NULL,8.3,111,M
+227,"Alien: Isolation",7,4274,2014,"Creative Assembly",PS4,0.34,0.57,0.04,0.17,79,50,8.1,795,M
+228,"Alien: Isolation",7,4274,2014,"Creative Assembly",X360,0.15,0.10,0.00,0.02,NULL,NULL,8.2,113,M
+229,"Alien: Isolation",7,4274,2014,"Creative Assembly",XOne,0.22,0.24,0.00,0.04,78,24,7.8,314,M
+230,"Alienators: Evolution Continues",9,4336,2001,"Digital Eclipse",GBA,0.03,0.01,0.00,0.00,54,4,tbd,NULL,E
+231,"Aliens versus Predator: Extinction",12,4116,2003,"Zono Inc.",PS2,0.09,0.07,0.00,0.02,66,17,8.4,30,T
+232,"Aliens versus Predator: Extinction",12,4116,2003,"Zono Inc.",XB,0.06,0.02,0.00,0.00,64,19,7.7,21,T
+233,"Aliens vs Predator",7,4274,2010,Rebellion,PC,0.00,0.17,0.00,0.02,68,35,7.4,985,M
+234,"Aliens vs Predator",7,4274,2010,Rebellion,PS3,0.41,0.46,0.00,0.18,65,57,7.3,168,M
+235,"Aliens vs Predator",7,4274,2010,Rebellion,X360,0.55,0.40,0.00,0.11,64,64,7.3,247,M
+236,"Aliens vs Predator: Requiem",9,5073,2007,Rebellion,PSP,0.03,0.12,0.00,0.07,49,34,5.6,19,T
+237,"Aliens: Colonial Marines",7,4274,2013,"Gearbox Software",PC,0.10,0.06,0.00,0.02,45,40,3.5,1156,M
+238,"Aliens: Colonial Marines",7,4274,2013,"Gearbox Software",PS3,0.20,0.29,0.00,0.11,43,25,3.6,295,M
+239,"Aliens: Colonial Marines",7,4274,2013,"Gearbox Software",X360,0.36,0.34,0.00,0.07,48,47,3.8,449,M
+240,"Aliens: Infestation",9,4274,2011,"Gearbox Software, WayForward",DS,0.09,0.05,0.00,0.02,76,43,8.2,29,T
+241,"All Grown Up! Express Yourself",6,4260,2004,NULL,GBA,0.13,0.05,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+242,"All Japan Pro Wrestling featuring Virtua",10,4274,1997,NULL,SAT,0.00,0.00,0.15,0.00,NULL,NULL,NULL,NULL,NULL
+243,"All Kamen Rider: Rider Generation",9,4239,2011,NULL,DS,0.00,0.00,0.12,0.00,NULL,NULL,NULL,NULL,NULL
+244,"All Kamen Rider: Rider Generation 2",9,4239,2012,NULL,DS,0.00,0.00,0.10,0.00,NULL,NULL,NULL,NULL,NULL
+245,"All Kamen Rider: Rider Generation 2",9,4239,2012,NULL,PSP,0.00,0.00,0.06,0.00,NULL,NULL,NULL,NULL,NULL
+246,"All Points Bulletin",4,4116,2010,NULL,PC,0.00,0.03,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+247,"All Star Cheer Squad",1,4260,2008,"Gorilla Games",DS,0.26,0.00,0.00,0.02,NULL,NULL,tbd,NULL,E
+248,"All Star Cheer Squad",1,4260,2008,"Gorilla Games",Wii,0.43,0.29,0.00,0.08,NULL,NULL,5.2,10,E
+249,"All Star Cheer Squad 2",1,4260,2009,"Gorilla Games",Wii,0.12,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+250,"All Star Karate",9,4260,2010,THQ,Wii,0.13,0.07,0.00,0.02,46,4,tbd,NULL,E10+
+251,"All Star Pro-Wrestling",10,4108,2000,NULL,PS2,0.00,0.00,0.20,0.00,NULL,NULL,NULL,NULL,NULL
+252,"All Star Tennis 99",1,4106,1999,NULL,N64,0.04,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+253,"All-Pro Football 2K8",1,4843,2007,"Visual Concepts",PS3,0.14,0.00,0.00,0.01,73,23,7.3,21,E10+
+254,"All-Pro Football 2K8",1,4843,2007,"Visual Concepts",X360,0.24,0.00,0.00,0.02,75,22,6.8,52,E10+
+255,Alleyway,5,4095,1989,NULL,GB,0.96,0.38,0.55,0.05,NULL,NULL,NULL,NULL,NULL
+256,"Alone in the Dark",11,4507,2008,"Eden Studios",PC,0.00,0.01,0.00,0.00,55,19,5.7,148,M
+257,"Alone in the Dark",11,4507,2008,"Eden Studios",X360,0.14,0.30,0.00,0.05,58,53,5.7,162,M
+258,"Alone in the Dark",11,4507,2008,Hydravision,PS2,0.03,0.02,0.00,0.01,47,10,5.4,24,M
+259,"Alone in the Dark",11,4507,2008,Hydravision,Wii,0.09,0.08,0.00,0.02,39,10,4.4,34,M
+260,"Alone in the Dark: Inferno",11,4507,2008,"Eden Studios",PS3,0.09,0.03,0.00,0.02,69,25,5.6,50,M
+261,"Alone in the Dark: One-Eyed Jack's Revenge",11,5266,1996,NULL,PS,0.17,0.12,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+262,"Alone in the Dark: The New Nightmare",11,5266,N/A,Darkworks,PS,0.09,0.06,0.00,0.01,77,15,8.1,40,M
+263,"Alpha Protocol",4,4274,2010,"Obsidian Entertainment",PC,0.00,0.03,0.00,0.01,72,25,7.5,511,M
+264,"Alpha Protocol",4,4274,2010,"Obsidian Entertainment",PS3,0.19,0.17,0.00,0.07,64,49,6.9,117,M
+265,"Alpha Protocol",4,4274,2010,"Obsidian Entertainment",X360,0.23,0.12,0.00,0.04,63,68,7.2,201,M
+266,"Alter Echo",7,4260,2003,"Outrage Games",PS2,0.06,0.05,0.00,0.02,62,26,7,9,T
+267,"Alter Echo",7,4260,2003,"Outrage Games",XB,0.04,0.01,0.00,0.00,62,24,tbd,NULL,T
+268,"Alter Ego",8,4336,1985,"Viva Media, Viva Media, LLC",PC,0.00,0.03,0.00,0.01,59,9,5.8,19,T
+269,"Altered Beast: Guardian of the Realms",9,4260,2002,"3d6 Games",GBA,0.07,0.02,0.00,0.00,63,13,4.8,4,T
+270,Alundra,4,4787,1997,"Matrix Software",PS,0.13,0.09,0.00,0.01,86,9,9,41,T
+271,"Alundra 2: A New Legend Begins",4,4336,1999,NULL,PS,0.15,0.10,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+272,"Alvin and the Chipmunks",6,4853,2007,"Sensory Sweep",DS,0.12,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+273,"Alvin and the Chipmunks",6,4853,2007,"Sensory Sweep",PS2,0.04,0.03,0.00,0.01,33,5,4.5,6,E
+274,"Alvin and the Chipmunks",6,4877,2007,"Sensory Sweep",Wii,0.05,0.00,0.00,0.00,30,4,3.6,20,E
+275,"Alvin and the Chipmunks: Chipwrecked",6,4760,2011,"Behaviour Interactive",DS,0.06,0.03,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+276,"Alvin and the Chipmunks: Chipwrecked",6,4760,2011,"Behaviour Interactive",Wii,0.07,0.01,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+277,"Alvin and the Chipmunks: Chipwrecked",6,4760,2011,"Behaviour Interactive",X360,0.09,0.01,0.00,0.01,NULL,NULL,5.1,8,E10+
+278,Amagami,11,5453,2009,NULL,PS2,0.00,0.00,0.13,0.00,NULL,NULL,NULL,NULL,NULL
+279,"Amagoushi no Yakata",11,4673,2007,NULL,PS2,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+280,"Amazing Island",12,4274,2004,Hitmaker,GC,0.04,0.01,0.00,0.00,59,22,6.6,7,E
+281,"America's Army: Rise of a Soldier",7,4106,2005,"Secret Level",XB,0.19,0.05,0.00,0.01,70,19,7.4,21,T
+282,"America's Army: True Soldiers",7,4106,2007,"Red Storm Entertainment",X360,0.08,0.00,0.00,0.01,43,11,6.7,55,T
+283,"America's Next Top Model",9,4877,2008,"Arts Software",DS,0.10,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+284,"America's Test Kitchen: Let's Get Cooking",8,4095,2010,"Indies Zero",DS,0.25,0.00,0.00,0.02,87,4,5.6,9,E
+285,"American Bass Challenge",1,4861,2001,Starfish,GBA,0.03,0.01,0.00,0.00,69,5,tbd,NULL,E
+286,"American Chopper",3,5718,2004,"Creat Studios",PS2,0.35,0.01,0.00,0.06,47,4,7.5,13,T
+287,"American Chopper",3,5718,2004,"Creat Studios",XB,0.11,0.03,0.00,0.01,44,6,5.9,9,T
+288,"American Chopper 2: Full Throttle",3,4336,2005,"Creat Studios",GC,0.04,0.01,0.00,0.00,54,4,tbd,NULL,T
+289,"American Chopper 2: Full Throttle",3,5718,2005,"Creat Studios",PS2,0.09,0.07,0.00,0.02,NULL,NULL,8.1,9,T
+290,"American Chopper 2: Full Throttle",3,5718,2005,"Creat Studios",XB,0.04,0.01,0.00,0.00,NULL,NULL,tbd,NULL,T
+291,"American Girl: Julie Finds a Way",11,4260,2007,"Webfoot Technologies",DS,0.10,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+292,"American Girl: Kit Mystery Challenge!",11,4260,2008,"Webfoot Technologies",DS,0.42,0.00,0.00,0.03,NULL,NULL,tbd,NULL,E
+293,"American Idol",6,4388,2003,"Hothouse Creations",PS2,0.27,0.21,0.00,0.07,41,14,4.8,12,E
+294,"American Idol",6,4388,2003,"Mobius Entertainment",GBA,0.15,0.06,0.00,0.00,NULL,NULL,4.8,5,E
+295,"AMF Bowling Pinbusters!",1,4164,2007,NULL,Wii,0.84,0.00,0.00,0.07,NULL,NULL,NULL,NULL,NULL
+296,"AMF Bowling Pinbusters!",1,4848,2008,NULL,DS,0.06,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+297,"AMF Bowling World Lanes",1,4164,2008,"Vir2L Studios",Wii,0.33,0.00,0.00,0.03,NULL,NULL,1.1,10,E
+298,"AMF Xtreme Bowling",1,5666,2006,"Atomic Planet Entertainment, Mud Duck Productions",PS2,0.01,0.01,0.00,0.00,30,4,4.2,5,E
+299,Amnesia,11,5319,2011,NULL,PSP,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+300,"Amnesia Crowd",6,5319,2013,NULL,PSP,0.00,0.00,0.05,0.00,NULL,NULL,NULL,NULL,NULL
+301,"Amnesia Later",6,5319,2012,NULL,PSP,0.00,0.00,0.05,0.00,NULL,NULL,NULL,NULL,NULL
+302,"Amnesia Later",6,5319,2014,NULL,PSV,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+303,"AMNESIA World",11,5319,2014,NULL,PSV,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+304,"Amped 2",1,4470,2003,"Indie Built",XB,0.20,0.04,0.00,0.01,80,34,7.7,20,E
+305,"Amped 3",1,4843,2005,"2K Sports",X360,0.13,0.02,0.00,0.01,72,49,7.1,36,T
+306,"Amped: Freestyle Snowboarding",1,4470,2001,"Indie Built",XB,0.69,0.11,0.00,0.02,78,30,9,20,E
+307,"An American Tail: Fievel's Gold Rush",2,5489,2002,NULL,GBA,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+308,"Anarchy Reigns",9,4274,2012,PlatinumGames,PS3,0.10,0.03,0.06,0.02,71,35,8.2,106,M
+309,"Anarchy Reigns",9,4274,2012,PlatinumGames,X360,0.12,0.02,0.02,0.01,73,38,7.9,105,M
+310,"And1 Streetball",9,4106,2006,NULL,PS2,0.13,0.10,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+311,"And1 Streetball",9,4106,2006,NULL,XB,0.06,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+312,"Andretti Racing",3,4116,1996,NULL,PS,0.43,0.29,0.00,0.05,NULL,NULL,NULL,NULL,NULL
+313,"Angelique: Maren no Rokukishi",11,5319,2011,NULL,PSP,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+314,"Angler's Club: Ultimate Bass Fishing 3D",1,4786,2011,Tamsoft,3DS,0.00,0.03,0.00,0.00,NULL,NULL,tbd,NULL,E
+315,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",3DS,0.15,0.15,0.00,0.03,NULL,NULL,3,8,E
+316,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",PS3,0.10,0.14,0.00,0.05,49,6,3.6,23,E
+317,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",PS4,0.10,0.08,0.00,0.04,47,5,2,87,E
+318,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",PSV,0.03,0.03,0.00,0.02,NULL,NULL,2,13,E
+319,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",Wii,0.15,0.09,0.00,0.02,NULL,NULL,2.8,5,E
+320,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",WiiU,0.05,0.04,0.00,0.01,NULL,NULL,6.8,17,E
+321,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",X360,0.16,0.10,0.00,0.02,59,3,5.6,25,E
+322,"Angry Birds Star Wars",12,4336,2013,"Exient Entertainment",XOne,0.11,0.04,0.00,0.02,53,4,6.9,63,E
+323,"Angry Birds Trilogy",9,4336,2012,"Exient Entertainment",3DS,0.38,0.20,0.00,0.05,62,7,4.6,20,E
+324,"Angry Birds Trilogy",9,4336,2012,"Rovio Mobile, Rovio Entertainment",PS3,0.12,0.02,0.00,0.03,66,8,3.7,20,E
+325,"Angry Birds Trilogy",9,4336,2012,"Rovio Mobile, Rovio Entertainment",X360,0.18,0.05,0.00,0.02,63,13,3.5,27,E
+326,"Animal Crossing",8,4095,2001,Nintendo,GC,1.92,0.16,0.99,0.09,87,42,8.9,137,E
+327,"Animal Crossing: Amiibo Festival",6,4095,2015,"Nintendo, Nd Cube",WiiU,0.19,0.11,0.09,0.03,46,20,4.4,173,E
+328,"Animal Crossing: City Folk",8,4095,2008,Nintendo,Wii,1.82,1.12,1.32,0.36,73,50,7.6,119,E
+329,"Animal Crossing: Happy Home Designer",8,4095,2015,Nintendo,3DS,0.51,1.02,1.40,0.12,66,60,6.9,106,E
+330,"Animal Crossing: New Leaf",8,4095,2012,Nintendo,3DS,2.03,2.36,4.39,0.39,88,70,8.7,626,E
+331,"Animal Crossing: Wild World",8,4095,2005,Nintendo,DS,2.50,3.45,5.33,0.86,86,57,8.7,242,E
+332,"Animal Genius",5,4106,2007,"Big Blue Bubble Inc.",DS,0.10,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+333,"Animal Kingdom: Wildlife Expedition",11,4589,2009,Success,Wii,0.07,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+334,"Animal Paradise",8,4984,2007,"Empire Interactive",DS,0.09,0.14,0.00,0.02,49,7,tbd,NULL,E
+335,"Animal Planet: Emergency Vets",8,4336,2009,"SilverBirch Studios",DS,0.08,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+336,"Animal Planet: Vet Collection",8,4336,2010,Activision,DS,0.05,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+337,"Animal Planet: Vet Life",8,4336,2009,Activision,DS,0.10,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+338,"Animal Planet: Vet Life",8,4336,2009,"Activision, Activision Blizzard",Wii,0.08,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+339,"Animaniacs: The Great Edgar Hunt",2,4936,2005,Warthog,GC,0.02,0.01,0.00,0.00,65,14,tbd,NULL,E
+340,"Animorphs: Shattered Reality",9,5266,2000,SingleTrac,PS,0.03,0.02,0.00,0.00,27,4,tbd,NULL,E
+341,"Anno 2070",12,4106,2011,"Blue Byte, Related Designs",PC,0.00,1.13,0.00,0.29,83,33,7,493,T
+342,"Anno 2205",12,4106,2015,"Blue Byte",PC,0.02,0.22,0.00,0.02,72,45,5.9,278,E10+
+343,"Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai",9,5103,2012,NULL,PSP,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+344,"Another Code R: A Journey into Lost Memories",11,4095,2009,Cing,Wii,0.00,0.03,0.03,0.00,66,27,NULL,NULL,NULL
+345,"Ansatsu Kyoushitsu: Assassin Ikusei Keikaku!!",9,4239,2016,NULL,3DS,0.00,0.00,0.06,0.00,NULL,NULL,NULL,NULL,NULL
+346,"Antiphona no Seikahime: Tenshi no Gakufu Op.A",4,4673,2009,NULL,PSP,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+347,"Antz Extreme Racing",3,4984,2002,"Empire Interactive",PS2,0.02,0.02,0.00,0.01,31,5,5,8,E
+348,"Antz Extreme Racing",3,4984,2002,"Supersonic Software",XB,0.01,0.00,0.00,0.00,35,4,8.7,10,E
+349,"Ao no Exorcist: Genkoku no Labyrinth",9,4239,2012,NULL,PSP,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+350,Aoishiro,11,5427,2008,NULL,PS2,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+351,"Apache: Air Assault",8,4336,2010,"Gaijin Entertainment",PS3,0.11,0.06,0.00,0.03,66,17,6.1,12,T
+352,"Apache: Air Assault",8,4336,2010,"Gaijin Entertainment",X360,0.12,0.03,0.00,0.01,70,26,6.4,31,T
+353,Apex,3,4507,2003,"Milestone S.r.l",XB,0.10,0.03,0.00,0.00,74,26,9.1,7,E
+354,Apocalypse,9,4336,1998,NULL,PS,0.25,0.17,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+355,"Apollo Justice: Ace Attorney",11,4142,2007,Capcom,DS,0.28,0.04,0.64,0.03,78,48,8.1,84,T
+356,"Aqua Aqua",5,4827,2000,"Zed Two Limited",PS2,0.05,0.04,0.00,0.01,79,14,tbd,NULL,E
+357,"Aqua Panic!",5,4516,2009,NULL,DS,0.01,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+358,"Aquaman: Battle for Atlantis",9,5775,2003,"TDK Mediactive",GC,0.01,0.00,0.00,0.00,27,9,3.1,19,T
+359,"Aquapazza: Aquaplus Dream Match",10,5169,2012,Examu,PS3,0.05,0.00,0.05,0.01,75,13,7.8,20,T
+360,"Ar tonelico 2: Melody of Metafalica",4,4673,2007,NULL,PS2,0.04,0.03,0.11,0.01,NULL,NULL,NULL,NULL,NULL
+361,"Ar tonelico: Melody of Elemia",4,4760,2006,Gust,PS2,0.00,0.00,0.10,0.00,71,30,7.7,43,T
+362,"Arcade Shooting Gallery",7,4807,2008,"Zoo Games",Wii,0.18,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+363,"Arcade Zone",6,4336,2009,Activision,Wii,0.14,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+364,"Arcana Heart",10,4975,2007,Examu,PS2,0.06,0.05,0.04,0.02,77,12,8.1,8,T
+365,"Arcana Heart 3",10,5601,2011,Examu,PS3,0.04,0.04,0.10,0.02,73,10,7.5,27,T
+366,"Arcana Heart 3",10,5601,2011,Examu,X360,0.00,0.02,0.02,0.00,68,13,NULL,NULL,T
+367,"Arcana Heart 3",10,4590,2014,NULL,PSV,0.02,0.00,0.02,0.01,NULL,NULL,NULL,NULL,NULL
+368,"Archer Maclean Presents: Pool Paradise",1,4936,2004,NULL,GC,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+369,"Archer Maclean Presents: Pool Paradise",1,4936,2004,NULL,PS2,0.03,0.02,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+370,"Archer Maclean's Mercury",5,4936,2005,"Awesome Studios",PSP,0.17,0.24,0.00,0.14,75,39,6.6,21,E
+371,"Arctic Tale",11,5718,2007,"Atomic Planet Entertainment",DS,0.13,0.00,0.00,0.01,38,4,tbd,NULL,E
+372,"Arctic Tale",11,5718,2007,"Atomic Planet Entertainment",Wii,0.04,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+373,"Are You Alice?",11,5319,2011,NULL,PSP,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+374,"Are You Smarter Than a 5th Grader? Back to School",6,4095,2010,THQ,Wii,0.18,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+375,"Are You Smarter Than a 5th Grader? Back to School",6,4260,2010,THQ,DS,0.08,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+376,"Are You Smarter than a 5th Grader? Game Time",5,4260,2009,ImaginEngine,X360,0.12,0.00,0.00,0.01,NULL,NULL,1.3,9,E
+377,"Are You Smarter than a 5th Grader? Game Time",5,4260,2009,THQ,DS,0.22,0.00,0.00,0.02,NULL,NULL,tbd,NULL,E
+378,"Are You Smarter than a 5th Grader? Game Time",5,4260,2009,THQ,Wii,0.25,0.00,0.00,0.02,NULL,NULL,tbd,NULL,E
+379,"Are You Smarter than a 5th Grader? Make the Grade",6,4260,2008,THQ,DS,0.36,0.00,0.00,0.03,NULL,NULL,tbd,NULL,E
+380,"Are You Smarter than a 5th Grader? Make the Grade",6,4260,2008,THQ,Wii,0.50,0.00,0.00,0.04,NULL,NULL,tbd,NULL,E
+381,"Arena Football",1,4116,2006,"EA Tiburon",PS2,0.28,0.22,0.00,0.07,66,18,8.6,14,E10+
+382,"Arena Football",1,4116,2006,"EA Tiburon",XB,0.11,0.03,0.00,0.01,65,17,8.5,10,E10+
+383,"Arkanoid DS",5,4140,2007,"Taito Corporation",DS,0.06,0.00,0.00,0.00,61,29,7,5,E
+384,"ArmA II",7,4760,2009,"Bohemia Interactive",PC,0.00,0.12,0.00,0.02,77,38,7.5,589,M
+385,"ArmA III",7,5207,2013,"Bohemia Interactive",PC,0.00,0.10,0.00,0.01,74,38,7.4,866,M
+386,"Armed and Dangerous",7,4237,2003,"Planet Moon Studios",XB,0.09,0.03,0.00,0.00,79,41,7.2,15,T
+387,"Armored Core 2",8,4106,2000,"From Software",PS2,0.28,0.22,0.23,0.07,78,23,8.4,19,T
+388,"Armored Core 3 Portable",8,4257,2009,"From Software",PSP,0.00,0.00,0.08,0.00,43,6,6.7,6,T
+389,"Armored Core 4",8,4760,2006,"From Software",PS3,0.09,0.00,0.09,0.01,65,36,6.8,25,T
+390,"Armored Core 4",8,4760,2007,"From Software",X360,0.19,0.01,0.03,0.02,65,31,7.2,31,T
+391,"Armored Core SL: Silent Line Portable",8,4257,2009,NULL,PSP,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+392,"Armored Core V",8,4239,2012,"From Software",PS3,0.09,0.04,0.24,0.02,65,26,7.3,47,T
+393,"Armored Core V",8,4239,2012,"From Software",X360,0.13,0.03,0.04,0.01,68,37,7.2,37,T
+394,"Armored Core: For Answer",8,4106,2008,"From Software",PS3,0.06,0.02,0.10,0.01,62,22,7.6,31,T
+395,"Armored Core: For Answer",8,4106,2008,"From Software",X360,0.06,0.01,0.07,0.01,64,22,7.7,38,T
+396,"Armored Core: Formula Front Extreme Battle",8,4760,2004,NULL,PSP,0.05,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+397,"Armored Core: Last Raven",8,4760,2005,"From Software",PS2,0.05,0.04,0.08,0.01,59,16,8.9,14,T
+398,"Armored Core: Last Raven Portable",8,4257,2010,"From Software",PSP,0.00,0.00,0.03,0.00,NULL,NULL,tbd,NULL,T
+399,"Armored Core: Master of Arena",8,4257,1999,NULL,PS,0.07,0.05,0.13,0.02,NULL,NULL,NULL,NULL,NULL
+400,"Armored Core: Nine Breaker",8,4760,2004,"From Software",PS2,0.03,0.03,0.00,0.01,57,25,8.2,5,T
+401,"Armored Core: Project Phantasma",8,4257,1997,NULL,PS,0.06,0.04,0.15,0.02,NULL,NULL,NULL,NULL,NULL
+402,"Armored Core: Silent Line",8,5729,2003,NULL,PS2,0.07,0.06,0.16,0.02,NULL,NULL,NULL,NULL,NULL
+403,"Armored Core: Verdict Day",8,4257,2013,"From Software",PS3,0.00,0.00,0.12,0.00,66,18,7.4,28,T
+404,"Army Corps of Hell",9,4140,2011,"Entersphere, Inc.",PSV,0.04,0.04,0.00,0.02,57,43,6.6,28,M
+405,"Army Men 3D",9,4827,1999,NULL,PS,1.10,0.14,0.00,0.04,NULL,NULL,NULL,NULL,NULL
+406,"Army Men World War: Final Front",9,4827,2001,NULL,PS,0.24,0.17,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+407,"Army Men World War: Land, Sea, Air",9,4827,2000,NULL,PS,0.17,0.12,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+408,"Army Men World War: Team Assault",9,4827,2001,NULL,PS,0.06,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+409,"Army Men: Air Attack",9,4827,1999,NULL,PS,0.47,0.32,0.00,0.06,NULL,NULL,NULL,NULL,NULL
+410,"Army Men: Air Attack 2",9,4827,2000,3DO,PS,0.17,0.11,0.00,0.02,74,8,5.3,4,T
+411,"Army Men: Air Combat",9,4827,2000,NULL,N64,0.19,0.05,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+412,"Army Men: Air Combat - The Elite Missions",7,4827,2003,NULL,GC,0.01,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+413,"Army Men: Green Rogue",9,4827,2001,NULL,PS,0.04,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+414,"Army Men: Green Rogue",9,4827,2001,3DO,PS2,0.06,0.05,0.00,0.02,39,13,3.8,4,T
+415,"Army Men: RTS",12,4827,2002,"Pandemic Studios",PS2,0.05,0.04,0.00,0.01,68,14,tbd,NULL,T
+416,"Army Men: Sarge's Heroes",9,4827,1999,NULL,N64,0.68,0.12,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+417,"Army Men: Sarge's Heroes",9,4827,1999,NULL,PS,0.31,0.21,0.00,0.04,NULL,NULL,NULL,NULL,NULL
+418,"Army Men: Sarge's Heroes 2",7,4827,2000,NULL,N64,0.34,0.07,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+419,"Army Men: Sarge's Heroes 2",7,4827,2000,3DO,PS,0.14,0.09,0.00,0.02,48,8,7.3,7,T
+420,"Army Men: Sarge's Heroes 2",7,5494,2001,3DO,PS2,0.09,0.07,0.00,0.02,54,15,4.6,5,T
+421,"Army Men: Soldiers of Misfortune",7,4807,2008,"Big Blue Bubble Inc.",Wii,0.12,0.00,0.00,0.01,NULL,NULL,2.5,6,E
+422,"Army Men: Soldiers of Misfortune",7,4807,2008,"Big Blue Entertainment",DS,0.10,0.00,0.00,0.01,35,4,tbd,NULL,E
+423,"Army of Two",7,4116,2008,"EA Montreal",PS3,0.74,0.26,0.02,0.15,74,43,7.3,118,M
+424,"Army of Two",7,4116,2008,"EA Montreal",X360,1.09,0.37,0.02,0.16,72,76,7.6,233,M
+425,"Army of Two: The 40th Day",7,4116,2010,"Buzz Monkey, EA Montreal",PSP,0.12,0.13,0.00,0.08,49,11,6,32,M
+426,"Army of Two: The 40th Day",7,4116,2010,"EA Montreal",PS3,0.44,0.27,0.01,0.12,74,56,7,88,M
+427,"Army of Two: The 40th Day",7,4116,2010,"EA Montreal",X360,0.62,0.24,0.00,0.09,73,79,7.3,126,M
+428,"Army of Two: The Devil's Cartel",7,4116,2013,"Visceral Games",PS3,0.11,0.11,0.01,0.05,58,27,6.7,100,M
+429,"Army of Two: The Devil's Cartel",7,4116,2013,"Visceral Games",X360,0.16,0.07,0.00,0.02,54,55,6.2,195,M
+430,"Army Rescue",7,5112,2009,"UFO Interactive, CyberPlanet Interactive Public Co., Ltd.",Wii,0.02,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+431,"Art Academy",6,4095,2010,"Headstrong Games",DS,0.26,1.65,0.33,0.28,75,15,8,5,E
+432,"Art Academy: Home Studio",6,4095,2015,"Headstrong Games",WiiU,0.00,0.00,0.01,0.00,82,9,8.3,20,E
+433,"Art Academy: Lessons for Everyone",9,4095,2012,"Nintendo, Headstrong Games",3DS,0.20,0.04,0.21,0.02,81,14,7.6,22,E
+434,"Art of Fighting 3: The Path of the Warrior",10,5286,1996,NULL,NG,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+435,"Arthur and the Invisibles",11,4507,2007,NULL,DS,0.03,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+436,"Arthur! Ready to Race",3,4953,2000,NULL,PS,0.03,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+437,"ASH: Archaic Sealed Heat",4,4095,2007,Mistwalker,DS,0.00,0.00,0.12,0.00,NULL,NULL,NULL,NULL,E10+
+438,"Ashes Cricket 2009",1,4388,2009,NULL,PS3,0.00,0.15,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+439,"Ashes Cricket 2009",1,4388,2009,NULL,Wii,0.00,0.22,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+440,"Ashes Cricket 2009",1,4388,2009,NULL,X360,0.00,0.19,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+441,"Asphalt 3D",3,4106,2011,Gameloft,3DS,0.27,0.16,0.02,0.04,43,37,4.4,24,E10+
+442,"Asphalt: Injection",9,4106,2011,Ubisoft,PSV,0.13,0.06,0.00,0.03,49,33,4.8,28,E10+
+443,"Asphalt: Urban GT",3,4106,2004,Gameloft,DS,0.31,0.22,0.00,0.06,60,38,7.5,13,E
+444,"Asphalt: Urban GT 2",3,4106,2006,Virtuos,DS,0.09,0.04,0.00,0.01,NULL,NULL,6.9,13,E10+
+445,"Assassin's Creed",11,4106,2007,"Ubisoft Montreal",PS3,1.91,2.00,0.09,0.82,81,40,7.3,769,M
+446,"Assassin's Creed",11,4106,2007,"Ubisoft Montreal",X360,3.28,1.64,0.07,0.56,81,77,7.7,1074,M
+447,"Assassin's Creed",11,4106,2008,NULL,PC,0.01,0.83,0.00,0.07,NULL,NULL,NULL,NULL,NULL
+448,"Assassin's Creed Chronicles",9,4106,2016,"Climax Studios",PS4,0.01,0.05,0.01,0.01,NULL,NULL,6.1,12,T
+449,"Assassin's Creed Chronicles",9,4106,2016,"Climax Studios",PSV,0.01,0.04,0.01,0.01,70,6,8,24,T
+450,"Assassin's Creed Chronicles",9,4106,2016,"Climax Studios",XOne,0.00,0.01,0.00,0.00,NULL,NULL,6.8,8,T
+451,"Assassin's Creed Chronicles: China",9,4106,2015,"Climax Group, Climax Studios",PS4,0.00,0.03,0.00,0.01,69,44,6.4,83,T
+452,"Assassin's Creed II",9,4106,2009,"Ubisoft Montreal",PS3,2.54,1.93,0.21,0.86,91,70,8.6,1202,M
+453,"Assassin's Creed II",9,4106,2009,"Ubisoft Montreal",X360,3.11,1.55,0.08,0.51,90,82,8.8,1305,M
+454,"Assassin's Creed II",9,4106,2010,"Ubisoft Montreal",PC,0.01,0.45,0.00,0.09,86,22,6.9,1611,M
+455,"Assassin's Creed II: Discovery",9,4106,2009,"Griptonite Games",DS,0.15,0.11,0.00,0.03,69,20,7.3,22,T
+456,"Assassin's Creed III",9,4106,2012,Ubisoft,PC,0.28,0.53,0.00,0.12,80,21,6.2,1489,M
+457,"Assassin's Creed III",9,4106,2012,Ubisoft,PS3,2.64,2.52,0.16,1.12,85,41,6.9,1307,M
+458,"Assassin's Creed III",9,4106,2012,Ubisoft,X360,3.13,1.69,0.03,0.44,84,61,6.7,1196,M
+459,"Assassin's Creed III",9,4106,2012,"Ubisoft Quebec",WiiU,0.19,0.13,0.00,0.03,85,26,7.1,216,M
+460,"Assassin's Creed III: Liberation",9,4106,2012,Ubisoft,PSV,0.53,0.48,0.06,0.24,70,71,7.2,318,M
+461,"Assassin's Creed IV: Black Flag",9,4106,2013,Ubisoft,PC,0.22,0.38,0.00,0.05,84,10,7.7,1470,M
+462,"Assassin's Creed IV: Black Flag",9,4106,2013,Ubisoft,PS3,1.33,1.68,0.13,0.57,88,36,8.1,840,M
+463,"Assassin's Creed IV: Black Flag",9,4106,2013,Ubisoft,PS4,1.07,1.31,0.06,0.42,83,29,7.8,1530,M
+464,"Assassin's Creed IV: Black Flag",9,4106,2013,Ubisoft,WiiU,0.17,0.09,0.00,0.03,86,5,7.7,207,M
+465,"Assassin's Creed IV: Black Flag",9,4106,2013,Ubisoft,X360,1.90,1.11,0.01,0.29,86,35,7.9,701,M
+466,"Assassin's Creed IV: Black Flag",9,4106,2013,Ubisoft,XOne,1.48,0.55,0.00,0.21,NULL,NULL,7.4,355,M
+467,"Assassin's Creed Syndicate",9,4106,2015,"Ubisoft Quebec",PC,0.11,0.09,0.00,0.02,74,14,5.9,544,M
+468,"Assassin's Creed Syndicate",9,4106,2015,"Ubisoft Quebec",PS4,0.81,1.99,0.07,0.52,76,86,6.8,1319,M
+469,"Assassin's Creed Syndicate",9,4106,2015,"Ubisoft Quebec",XOne,0.62,0.56,0.00,0.11,78,22,6.1,402,M
+470,"Assassin's Creed The Ezio Collection",9,4106,2016,"Ubisoft Montreal",PS4,0.04,0.13,0.00,0.03,72,32,7.4,49,M
+471,"Assassin's Creed The Ezio Collection",9,4106,2016,"Ubisoft Montreal",XOne,0.03,0.04,0.00,0.01,74,13,7.6,24,M
+472,"Assassin's Creed: Altair's Chronicles",2,4106,2008,Gameloft,DS,0.03,0.01,0.00,0.00,58,30,6.3,30,T
+473,"Assassin's Creed: Bloodlines",9,4106,2009,"Griptonite Games",PSP,0.43,0.47,0.05,0.28,63,38,7.2,69,M
+474,"Assassin's Creed: Brotherhood",9,4106,2010,"Ubisoft Montreal",PS3,1.87,0.55,0.11,0.29,90,59,8.2,791,M
+475,"Assassin's Creed: Brotherhood",9,4106,2010,"Ubisoft Montreal",X360,2.85,0.38,0.03,0.24,89,81,8.3,693,M
+476,"Assassin's Creed: Brotherhood",9,4106,2011,"Ubisoft Montreal",PC,0.15,0.34,0.00,0.10,88,24,8.2,1102,M
+477,"Assassin's Creed: Revelations",9,4106,2011,"Ubisoft Montreal",PC,0.14,0.48,0.00,0.12,80,20,7.4,771,M
+478,"Assassin's Creed: Revelations",9,4106,2011,"Ubisoft Montreal",PS3,1.41,2.01,0.10,0.70,80,39,7.5,613,M
+479,"Assassin's Creed: Revelations",9,4106,2011,"Ubisoft Montreal",X360,2.25,1.47,0.04,0.43,80,77,7.2,564,M
+480,"Assassin's Creed: Rogue",9,4106,2014,Ubisoft,X360,0.58,0.34,0.00,0.09,72,32,7.3,318,M
+481,"Assassin's Creed: Rogue",9,4106,2014,"Ubisoft Sofia",PS3,0.46,0.56,0.06,0.20,72,53,7.5,292,M
+482,"Assassin's Creed: Rogue",9,4106,2015,Ubisoft,PC,0.05,0.02,0.00,0.01,74,25,7.5,362,M
+483,"Assassin's Creed: Unity",9,4106,2014,"Ubisoft, Ubisoft Montreal",PC,0.18,0.33,0.00,0.04,70,10,3,1463,M
+484,"Assassin's Creed: Unity",9,4106,2014,"Ubisoft, Ubisoft Montreal",PS4,1.19,2.07,0.08,0.62,70,40,4.9,2050,M
+485,"Assassin's Creed: Unity",9,4106,2014,"Ubisoft, Ubisoft Montreal",XOne,2.27,0.90,0.00,0.33,72,59,4.1,1005,M
+486,"Assassination Classroom: Grand Siege on Kuro-sensei",9,4239,2015,NULL,3DS,0.00,0.00,0.13,0.00,NULL,NULL,NULL,NULL,NULL
+487,"Assault Suit Leynos",7,5526,2016,Dracue,PS4,0.02,0.00,0.00,0.00,67,8,tbd,NULL,E10+
+488,"Assetto Corsa",3,4760,2016,"Kunos Simulazioni",PS4,0.00,0.05,0.00,0.01,73,35,6.2,70,E
+489,"Assetto Corsa",3,4760,2016,"Kunos Simulazioni",XOne,0.00,0.01,0.00,0.00,63,9,6.7,27,E
+490,"Asterix & Obelix: Kick Buttix",9,4507,2004,NULL,PS2,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+491,Asteroids,7,4507,1980,NULL,2600,4.00,0.26,0.00,0.05,NULL,NULL,NULL,NULL,NULL
+492,Asteroids,7,5427,1998,NULL,PS,0.64,0.43,0.00,0.07,NULL,NULL,NULL,NULL,NULL
+493,"Astonishia Story",4,4106,2006,Sonnori,PSP,0.03,0.00,0.00,0.00,48,35,4.9,18,E10+
+494,"Astro Boy",9,4274,2004,"Sonic Team",PS2,0.04,0.03,0.00,0.01,54,29,6.9,7,E
+495,"Astro Boy: Omega Factor",9,4260,2003,Hitmaker,GBA,0.06,0.02,0.00,0.00,85,37,8.6,18,E
+496,"Astro Boy: The Video Game",9,4786,2009,Art,DS,0.09,0.00,0.00,0.01,34,9,tbd,NULL,E
+497,"Astro Boy: The Video Game",9,4786,2009,"High Voltage Software",PS2,0.05,0.04,0.00,0.01,56,4,5,4,E10+
+498,"Astro Boy: The Video Game",9,4786,2009,"High Voltage Software",PSP,0.04,0.00,0.00,0.00,60,6,tbd,NULL,E10+
+499,"Astro Boy: The Video Game",9,4786,2009,"High Voltage Software",Wii,0.10,0.00,0.00,0.01,48,17,3.5,4,E10+
+500,"Astrology DS",6,5128,2009,NULL,DS,0.03,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+501,"Asura's Wrath",9,4142,2012,CyberConnect2,PS3,0.18,0.12,0.06,0.05,71,39,7.4,169,T
+502,"Asura's Wrath",9,4142,2012,CyberConnect2,X360,0.15,0.06,0.01,0.02,71,54,6.5,131,T
+503,"Atari Anniversary Advance",6,4507,2002,"Digital Eclipse",GBA,0.13,0.05,0.00,0.00,75,7,tbd,NULL,E
+504,"Atari Anniversary Edition Redux",6,5266,2000,"Digital Eclipse",PS,0.10,0.07,0.00,0.01,72,5,NULL,NULL,E
+505,"Atari Anthology",6,4507,2004,"Digital Eclipse",PS2,0.33,0.01,0.00,0.05,66,12,4.3,6,E
+506,"Atari Anthology",6,4507,2004,"Digital Eclipse",XB,0.19,0.05,0.00,0.01,68,15,tbd,NULL,E
+507,"Atari Classics Evolved",6,4507,2007,"Stainless Games",PSP,0.08,0.00,0.00,0.01,64,17,6,4,E
+508,"Atari Flashback Classics: Volume 1",6,4507,2016,"Atari, Atari SA",PS4,0.02,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+509,"Atari Flashback Classics: Volume 1",6,4507,2016,"Atari, Atari SA",XOne,0.02,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+510,"Atari Flashback Classics: Volume 2",6,4507,2016,"Atari, Atari SA",PS4,0.02,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+511,"Atari Flashback Classics: Volume 2",6,4507,2016,"Atari, Atari SA",XOne,0.02,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+512,"Atari's Greatest Hits: Volume 1",6,4507,2010,NULL,DS,0.13,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+513,"Atari's Greatest Hits: Volume 2",6,4507,2011,NULL,DS,0.05,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+514,"Atelier Annie: Alchemists of Sera Island",4,4784,2009,Gust,DS,0.08,0.00,0.03,0.01,70,11,6.7,15,E10+
+515,"Atelier Meruru: Alchemist of Arland 3",4,4673,2011,NULL,PS3,0.05,0.00,0.18,0.01,NULL,NULL,NULL,NULL,NULL
+516,"Atelier Meruru: Alchemist of Arland 3",4,4784,2013,NULL,PSV,0.00,0.00,0.06,0.00,NULL,NULL,NULL,NULL,NULL
+517,"Atelier Rorona: Alchemist of Arland",4,4673,2009,NULL,PS3,0.22,0.10,0.11,0.05,NULL,NULL,NULL,NULL,NULL
+518,"Atelier Rorona: Alchemist of Arland",4,4673,2013,NULL,PSV,0.00,0.00,0.05,0.00,NULL,NULL,NULL,NULL,NULL
+519,"Atelier Totori: The Adventurer of Arland",4,4673,2010,Gust,PS3,0.12,0.06,0.21,0.03,74,19,6.7,109,T
+520,"Atelier Totori: The Adventurer of Arland",4,4784,2012,NULL,PSV,0.00,0.00,0.09,0.00,NULL,NULL,NULL,NULL,NULL
+521,"Atomic Betty",5,4507,2005,"Big Blue Bubble Inc., Breakthrough New Media",GBA,0.02,0.01,0.00,0.00,62,10,7.5,6,E
+522,"ATV Offroad Fury 2",3,4260,2002,"Rainbow Studios",PS2,1.92,0.20,0.00,0.06,82,26,8.9,28,E
+523,"ATV Offroad Fury 3",3,5553,2004,"Climax Group",PS2,1.00,0.04,0.00,0.16,78,37,8.4,16,E
+524,"ATV Offroad Fury: Blazin' Trails",3,5553,2005,"Climax Group",PSP,0.53,0.00,0.00,0.04,63,32,7.8,16,E
+525,"ATV Quad Kings",3,5718,2009,"Beyond Reality",Wii,0.20,0.00,0.00,0.01,33,4,tbd,NULL,E
+526,"ATV Quad Kings",3,4709,2010,"Beyond Reality",DS,0.10,0.00,0.00,0.01,47,4,tbd,NULL,E
+527,"Auto Destruct",9,4116,1998,NULL,PS,0.04,0.03,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+528,"Auto Modellista",3,4142,2002,Capcom,PS2,0.19,0.15,0.00,0.05,66,20,7.5,13,E
+529,"Auto Modellista",3,4142,2003,Capcom,GC,0.02,0.01,0.00,0.00,62,7,tbd,NULL,E
+530,"Avalon Code",4,5526,2008,"Matrix Software, Marvelous Entertainment",DS,0.11,0.00,0.12,0.01,71,29,7.4,13,E10+
+531,"Avatar: The Game",9,4106,2009,NULL,DS,0.18,0.18,0.00,0.04,NULL,NULL,NULL,NULL,NULL
+532,"Avatar: The Game",9,4106,2009,NULL,PC,0.00,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+533,"Avatar: The Game",9,4106,2009,NULL,PS3,0.32,0.42,0.00,0.16,NULL,NULL,NULL,NULL,NULL
+534,"Avatar: The Game",9,4106,2009,NULL,PSP,0.22,0.24,0.00,0.14,NULL,NULL,NULL,NULL,NULL
+535,"Avatar: The Game",9,4106,2009,NULL,Wii,0.32,0.32,0.00,0.07,NULL,NULL,NULL,NULL,NULL
+536,"Avatar: The Game",9,4106,2009,NULL,X360,0.34,0.35,0.00,0.08,NULL,NULL,NULL,NULL,NULL
+537,"Avatar: The Last Airbender",11,4260,2006,"AWE Games",GC,0.39,0.10,0.00,0.01,60,10,6.5,4,E10+
+538,"Avatar: The Last Airbender",11,4260,2006,"AWE Games",Wii,0.23,0.02,0.00,0.02,56,15,5.8,8,E10+
+539,"Avatar: The Last Airbender",11,4260,2006,TOSE,DS,0.30,0.01,0.00,0.03,64,9,6.4,7,E
+540,"Avatar: The Last Airbender",11,4260,2006,TOSE,PSP,0.10,0.00,0.00,0.01,57,9,6.3,10,E10+
+541,"Avatar: The Last Airbender - Into the Inferno",11,4260,2008,NULL,DS,0.11,0.01,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+542,"Avatar: The Last Airbender - Into the Inferno",11,4260,2008,NULL,PS2,0.12,0.09,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+543,"Avatar: The Last Airbender - Into the Inferno",11,4260,2008,NULL,Wii,0.17,0.01,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+544,"Avatar: The Last Airbender - The Burning Earth",9,4260,2007,NULL,DS,0.31,0.00,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+545,"Avatar: The Last Airbender - The Burning Earth",9,4260,2007,NULL,PS2,0.21,0.16,0.00,0.05,NULL,NULL,NULL,NULL,NULL
+546,"Avatar: The Last Airbender - The Burning Earth",9,4260,2007,NULL,Wii,0.23,0.00,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+547,"Avatar: The Last Airbender - The Burning Earth",9,4260,2007,NULL,X360,0.11,0.01,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+548,"Azure Striker Gunvolt",9,5210,2016,"Inti Creates",3DS,0.01,0.00,0.00,0.00,77,20,8.4,62,E10+
+549,"Azure Striker Gunvolt: Striker Pack",9,4866,2016,"Inti Creates",3DS,0.00,0.00,0.01,0.00,NULL,NULL,tbd,NULL,T
+550,"Azurik: Rise of Perathia",9,4470,2001,Adrenium,XB,0.18,0.05,0.00,0.01,52,26,8.5,14,T
+551,"B-17: Fortress in the Sky",8,5226,2007,"SkyRiver Studios",DS,0.02,0.00,0.00,0.00,38,4,tbd,NULL,E10+
+552,"Baby Pals",8,4260,2007,"Brain Toys",DS,0.26,0.01,0.00,0.02,NULL,NULL,tbd,NULL,E
+553,"Babysitting Mama",8,4760,2010,"Cooking Mama Limited",Wii,0.33,0.12,0.00,0.04,NULL,NULL,tbd,NULL,E
+554,"Back At The Barnyard: Slop Bucket Games",1,4260,2008,THQ,DS,0.12,0.00,0.00,0.01,49,4,tbd,NULL,E
+555,"Back to the Future: The Game",11,4940,2011,"Iron Galaxy Studios",Wii,0.05,0.00,0.00,0.00,66,7,4.1,9,T
+556,"Back to the Future: The Game",11,4940,2011,"Telltale Games",PS3,0.07,0.01,0.00,0.01,66,5,6.8,51,NULL
+557,"Back to the Future: The Game",11,4940,2015,"Telltale Games",PS4,0.10,0.05,0.00,0.03,NULL,NULL,7.1,18,T
+558,"Back to the Future: The Game",11,4940,2015,"Telltale Games",X360,0.02,0.00,0.00,0.00,NULL,NULL,7.5,10,NULL
+559,"Back to the Future: The Game",11,4940,2015,"Telltale Games",XOne,0.00,0.02,0.00,0.00,NULL,NULL,7.3,7,T
+560,"Backyard Baseball",1,4507,2002,NULL,GBA,0.31,0.11,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+561,"Backyard Baseball",1,5266,2003,"Humongous Entertainment",GC,0.10,0.03,0.00,0.00,70,4,9.4,5,E
+562,"Backyard Baseball",1,4507,2004,"Humongous Entertainment",PS2,0.24,0.19,0.00,0.06,NULL,NULL,7.2,10,E
+563,"Backyard Baseball '09",1,4507,2008,"Humongous Entertainment",DS,0.11,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+564,"Backyard Baseball '09",1,4507,2008,"Humongous Entertainment",PS2,0.01,0.01,0.00,0.00,NULL,NULL,tbd,NULL,E
+565,"Backyard Baseball '09",1,4507,2008,"Humongous Entertainment",Wii,0.04,0.00,0.00,0.00,37,4,7.8,5,E
+566,"Backyard Baseball '10",1,4507,2009,"Farsight Studios",PS2,0.08,0.07,0.00,0.02,NULL,NULL,tbd,NULL,E
+567,"Backyard Baseball '10",1,4507,2009,"Farsight Studios",Wii,0.09,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+568,"Backyard Baseball '10",1,4507,2009,"Mistic Software",DS,0.11,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+569,"Backyard Baseball 2006",1,4507,2005,NULL,GBA,0.25,0.09,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+570,"Backyard Basketball",1,4507,2004,"Mistic Software",GBA,0.13,0.05,0.00,0.00,NULL,NULL,tbd,NULL,E
+571,"Backyard Hockey",1,4507,2003,"Mistic Software",GBA,0.14,0.05,0.00,0.00,NULL,NULL,tbd,NULL,E
+572,"Backyard Hockey",1,4507,2007,"Mistic Software",DS,0.06,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+573,"Backyard NBA Basketball",1,4507,2003,NULL,PS2,0.29,0.22,0.00,0.07,NULL,NULL,NULL,NULL,NULL
+574,"Backyard NBA Basketball",1,4507,2007,NULL,DS,0.07,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+575,"Backyard NFL Football",1,5266,2002,NULL,GBA,0.40,0.15,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+576,"Backyard NFL Football",1,5266,2002,NULL,GC,0.20,0.05,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+577,"Backyard NFL Football",1,4507,2007,NULL,DS,0.02,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+578,"Backyard NFL Football",1,4507,2007,NULL,Wii,0.02,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+579,"Backyard NFL Football '08",1,4507,2007,NULL,PS2,0.03,0.02,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+580,"Backyard NFL Football '09",1,4507,2008,NULL,DS,0.06,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+581,"Backyard NFL Football '09",1,4507,2008,NULL,PS2,0.08,0.07,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+582,"Backyard NFL Football '09",1,4507,2008,NULL,Wii,0.20,0.00,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+583,"Backyard NFL Football '10",1,4507,2009,NULL,PS2,0.03,0.02,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+584,"Backyard NFL Football '10",1,4507,2009,NULL,Wii,0.16,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+585,"Backyard NFL Football '10",1,4507,2009,NULL,X360,0.10,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+586,"Backyard NFL Football 2006",1,4507,2005,NULL,GBA,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+587,"Backyard NFL Football 2006",1,4507,2005,NULL,PS2,0.10,0.08,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+588,"Backyard Skateboarding 2006",1,4507,2004,NULL,GBA,0.04,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+589,"Backyard Soccer",1,5266,2001,"Humongous Entertainment",PS,0.07,0.05,0.00,0.01,NULL,NULL,tbd,NULL,E
+590,"Backyard Sports Football: Rookie Rush",1,4507,2010,NULL,DS,0.16,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+591,"Backyard Sports Football: Rookie Rush",1,4507,2010,NULL,Wii,0.11,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+592,"Backyard Sports Football: Rookie Rush",1,4507,2010,NULL,X360,0.11,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+593,"Backyard Sports: Sandlot Sluggers",1,4507,2010,"HB Studios Multimedia",Wii,0.14,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+594,"Backyard Sports: Sandlot Sluggers",1,4507,2010,"HB Studios Multimedia",X360,0.09,0.00,0.00,0.01,NULL,NULL,3.8,4,E
+595,"Backyard Sports: Sandlot Sluggers",1,4507,2010,"Powerhead Games",DS,0.13,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+596,"Backyard Wrestling 2: There Goes the Neighborhood",10,4877,2004,"Paradox Development",PS2,0.14,0.11,0.00,0.04,46,23,4.7,10,M
+597,"Backyard Wrestling 2: There Goes the Neighborhood",10,4877,2004,"Paradox Development",XB,0.09,0.03,0.00,0.00,43,17,tbd,NULL,M
+598,"Backyard Wrestling: Don't Try This at Home",10,4877,2003,"Paradox Development",PS2,0.30,0.23,0.00,0.08,51,24,7.8,29,M
+599,"Backyard Wrestling: Don't Try This at Home",10,4877,2003,"Paradox Development",XB,0.13,0.04,0.00,0.01,50,15,5,7,M
+600,"Bad Apple Wars",9,5319,2015,Otomate,PSV,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+601,"Bad Boys: Miami Takedown",7,4984,2004,"Blitz Games",GC,0.03,0.01,0.00,0.00,35,11,2,9,M
+602,"Bad Boys: Miami Takedown",7,4984,2004,"Blitz Games",PS2,0.56,0.44,0.00,0.15,43,5,3.4,13,M
+603,"Bad Boys: Miami Takedown",7,4984,2004,"Blitz Games",XB,0.14,0.04,0.00,0.01,35,20,5.9,9,M
+604,"Bae Yong-joon to Manabu Kankokugo DS",6,4786,2009,NULL,DS,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+605,"Bahamut Lagoon",4,4108,1996,NULL,SNES,0.00,0.00,0.62,0.00,NULL,NULL,NULL,NULL,NULL
+606,"Baja: Edge of Control",3,4260,2008,"2XL Games",PS3,0.10,0.08,0.00,0.03,61,21,5,11,E
+607,"Baja: Edge of Control",3,4260,2008,"2XL Games",X360,0.12,0.06,0.00,0.02,65,35,7.1,18,E
+608,"Bakemonogatari Portable",9,4239,2012,NULL,PSP,0.00,0.00,0.05,0.00,NULL,NULL,NULL,NULL,NULL
+609,"Baku Baku",5,4274,1995,NULL,SAT,0.00,0.00,0.05,0.00,NULL,NULL,NULL,NULL,NULL
+610,"Bakugan Battle Brawlers: Defenders of the Core",9,4336,2010,"Now Production",DS,0.41,0.02,0.02,0.03,NULL,NULL,tbd,NULL,E10+
+611,"Bakugan Battle Brawlers: Defenders of the Core",9,4336,2010,"Now Production",PS3,0.14,0.01,0.00,0.02,50,7,tbd,NULL,E10+
+612,"Bakugan Battle Brawlers: Defenders of the Core",9,4336,2010,"Now Production",PSP,0.09,0.04,0.00,0.03,NULL,NULL,tbd,NULL,E10+
+613,"Bakugan Battle Brawlers: Defenders of the Core",9,4336,2010,"Now Production",Wii,0.14,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+614,"Bakugan Battle Brawlers: Defenders of the Core",9,4336,2010,"Now Production",X360,0.11,0.02,0.00,0.01,62,10,tbd,NULL,E10+
+615,"Bakugan: Battle Brawlers",9,4336,2009,"Now Production",DS,1.26,0.02,0.00,0.10,60,6,6.7,7,E
+616,"Bakugan: Battle Brawlers",9,4336,2009,"Now Production",PS2,0.21,0.16,0.00,0.05,NULL,NULL,5.7,7,E
+617,"Bakugan: Battle Brawlers",9,4336,2009,"Now Production",PS3,0.19,0.03,0.00,0.02,63,10,8.2,5,E
+618,"Bakugan: Battle Brawlers",9,4336,2009,"Now Production",Wii,0.59,0.03,0.00,0.05,62,12,7.2,11,E
+619,"Bakugan: Battle Brawlers",9,4336,2009,"Now Production",X360,0.20,0.02,0.00,0.02,60,16,5.2,9,E
+620,"Bakugan: Battle Trainer",9,4336,2010,NULL,DS,0.12,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+621,"Bakugan: Rise of the Resistance",12,4336,2011,"Magic Pockets",DS,0.05,0.02,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+622,"Bakumatsu Koihana: Shinsengumi DS",11,4786,2008,NULL,DS,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+623,"Bakumatsu Renka: Karyuu Kenshi-den",11,4786,2007,NULL,PS2,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+624,"Bakumatsu Rock",9,4551,2014,NULL,PSP,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+625,"Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidoi",3,5132,1998,NULL,PS,0.00,0.00,0.36,0.03,NULL,NULL,NULL,NULL,NULL
+626,"Baldur's Gate: Dark Alliance II",4,5463,2004,"Black Isle Studios",PS2,0.34,0.26,0.00,0.09,78,44,8.7,54,T
+627,"Ball Breakers",9,4843,2000,"Lost Toys",PS,0.10,0.07,0.00,0.01,68,10,5.3,4,E
+628,Ballistic,5,4507,1999,NULL,PS,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+629,"Balloon Fight",2,4095,1985,NULL,NES,0.39,0.09,0.43,0.01,NULL,NULL,NULL,NULL,NULL
+630,"Balloon Pop",5,4760,2007,"UFO Interactive",Wii,0.04,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+631,"Balloon Pop",5,5112,2009,Tommo,DS,0.13,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+632,"Balloon Pop 2",5,5112,2012,"UFO Interactive",3DS,0.01,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+633,"Balls of Fury",1,5718,2007,"Black Lantern Studios",DS,0.02,0.00,0.00,0.00,62,7,tbd,NULL,E10+
+634,"Balls of Fury",1,5718,2007,"Black Lantern Studios",Wii,0.02,0.00,0.00,0.00,19,6,2.8,25,E10+
+635,"Band Hero",6,4336,2009,BudCat,PS2,0.15,0.06,0.00,0.20,NULL,NULL,4.4,7,E10+
+636,"Band Hero",6,4336,2009,"Neversoft Entertainment",PS3,0.41,0.23,0.00,0.11,76,45,5.7,9,E10+
+637,"Band Hero",6,4336,2009,"Neversoft Entertainment",X360,0.51,0.21,0.00,0.07,76,52,5,30,E10+
+638,"Band Hero",6,4336,2009,"Vicarious Visions",DS,0.20,0.19,0.00,0.04,65,18,7,4,E10+
+639,"Band Hero",6,4336,2009,"Vicarious Visions",Wii,0.59,0.29,0.00,0.09,79,20,6.6,15,E10+
+640,"Bangai-O Spirits",7,4786,2008,Treasure,DS,0.07,0.00,0.00,0.01,83,38,8.1,27,E10+
+641,Banjo-Kazooie,2,4095,1998,NULL,N64,1.87,1.13,0.55,0.10,NULL,NULL,NULL,NULL,NULL
+642,Banjo-Kazooie,2,4470,2008,"4J Studios",X360,0.00,0.01,0.00,0.00,77,17,8.2,70,E
+643,"Banjo-Kazooie: Grunty's Revenge",2,4260,2003,"Rare Ltd.",GBA,0.24,0.09,0.00,0.01,72,21,8.1,18,E
+644,"Banjo-Kazooie: Nuts & Bolts",2,4470,2008,NULL,X360,0.32,0.35,0.00,0.08,NULL,NULL,NULL,NULL,NULL
+645,Banjo-Pilot,3,4260,2005,"Rare Ltd.",GBA,0.07,0.03,0.00,0.00,68,22,5.9,9,E
+646,Banjo-Tooie,2,4095,2000,NULL,N64,0.82,0.36,0.25,0.06,NULL,NULL,NULL,NULL,NULL
+647,"Banushi Life Game: Winner's Circle",1,4366,2007,NULL,DS,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+648,"Barbie and Her Sisters Puppy Rescue",9,4239,2015,"Torus Games, Little Orbit",3DS,0.00,0.03,0.00,0.00,NULL,NULL,tbd,NULL,E
+649,"Barbie and Her Sisters Puppy Rescue",9,4239,2015,"Torus Games, Little Orbit",Wii,0.00,0.03,0.00,0.00,NULL,NULL,tbd,NULL,E
+650,"Barbie and Her Sisters Puppy Rescue",9,4239,2015,"Torus Games, Little Orbit",WiiU,0.00,0.01,0.00,0.00,NULL,NULL,2.8,11,E
+651,"Barbie and the Magic of Pegasus",9,5073,2005,WayForward,GBA,0.07,0.02,0.00,0.00,NULL,NULL,tbd,NULL,E
+652,"Barbie and the Three Musketeers",11,4336,2009,Activision,Wii,0.21,0.00,0.00,0.02,NULL,NULL,tbd,NULL,E
+653,"Barbie and the Three Musketeers",11,4336,2009,WayForward,DS,0.12,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+654,"Barbie as The Island Princess",11,4336,2007,NULL,GBA,0.16,0.06,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+655,"Barbie as The Island Princess",11,4336,2007,"Human Soft, Ivolgamus",DS,0.28,0.01,0.00,0.02,NULL,NULL,tbd,NULL,E
+656,"Barbie as The Island Princess",11,4336,2007,"Human Soft, Ivolgamus",PS2,0.06,0.04,0.00,0.02,NULL,NULL,tbd,NULL,E
+657,"Barbie as The Island Princess",11,4336,2007,"Human Soft, Ivolgamus",Wii,0.42,0.00,0.00,0.03,NULL,NULL,tbd,NULL,E
+658,"Barbie as the Princess and the Pauper",11,5073,2004,WayForward,GBA,0.01,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+659,"Barbie Fashion Show: An Eye for Style",6,4336,2008,NULL,DS,0.18,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+660,"Barbie Horse Adventures: Riding Camp",1,4336,2008,Activision,DS,0.50,0.00,0.00,0.04,NULL,NULL,tbd,NULL,E
+661,"Barbie Horse Adventures: Riding Camp",1,4336,2008,Activision,Wii,0.17,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+662,"Barbie Horse Adventures: Riding Camp",1,4336,2008,"Pixel Tales",PS2,0.09,0.07,0.00,0.02,NULL,NULL,tbd,NULL,E
+663,"Barbie Horse Adventures: Wild Horse Rescue",1,5073,2003,NULL,XB,0.05,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+664,"Barbie in The 12 Dancing Princesses",11,4336,2007,WayForward,DS,0.09,0.01,0.00,0.01,NULL,NULL,tbd,NULL,E
+665,"Barbie Superpack: Secret Agent / Groovy Games",6,5073,2005,NULL,GBA,0.10,0.04,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+666,"Barbie: Groom and Glam Pups",9,4260,2010,"Game Machine Studios",DS,0.25,0.14,0.00,0.04,NULL,NULL,tbd,NULL,E
+667,"Barbie: Groom and Glam Pups",9,4260,2010,"Game Machine Studios",Wii,0.18,0.02,0.00,0.01,NULL,NULL,tbd,NULL,E
+668,"Barbie: Jet, Set & Style!",6,4260,2011,NULL,DS,0.34,0.05,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+669,"Barbie: Jet, Set & Style!",6,4260,2011,NULL,Wii,0.22,0.01,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+670,Barnstorming,9,4336,1981,NULL,2600,0.40,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+671,Barnyard,9,4260,2006,"Blue Tongue Entertainment",GC,0.09,0.02,0.00,0.00,66,12,tbd,NULL,E10+
+672,Barnyard,9,4260,2006,"Blue Tongue Entertainment",PS2,0.05,0.04,0.00,0.01,62,13,8.7,10,E10+
+673,Barnyard,9,4260,2006,"Blue Tongue Entertainment",Wii,0.04,0.00,0.00,0.00,65,15,5.7,7,E10+
+674,Barnyard,9,4260,2006,"Halfbrick Studios",GBA,0.03,0.01,0.00,0.00,56,8,tbd,NULL,E
+675,Baroque,4,5526,2007,Sting,PS2,0.05,0.04,0.02,0.01,60,6,8.8,44,T
+676,Baroque,4,5526,2008,Sting,Wii,0.07,0.00,0.00,0.01,50,22,8.1,24,T
+677,Baseball,1,4095,1983,NULL,NES,0.73,0.10,2.35,0.02,NULL,NULL,NULL,NULL,NULL
+678,Baseball,1,4095,1989,NULL,GB,0.66,0.27,0.65,0.03,NULL,NULL,NULL,NULL,NULL
+679,"Baseball Advance",1,4274,2002,Smilebit,GBA,0.10,0.04,0.00,0.00,80,16,7.8,5,E
+680,"Baseball Blast!",1,4843,2009,NULL,Wii,0.14,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+681,"Basketball Hall of Fame Ultimate Hoops Challenge",1,4807,2010,"Collision Studios",Wii,0.06,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+682,"Bass Hunter 64",1,4843,1999,NULL,N64,0.25,0.06,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+683,"Bass Pro Shops: The Hunt",1,5009,2010,"Griffin International",X360,0.08,0.00,0.00,0.01,NULL,NULL,tbd,NULL,T
+684,"Bass Pro Shops: The Hunt",1,5591,2010,"Griffin International",Wii,0.21,0.00,0.00,0.01,NULL,NULL,tbd,NULL,T
+685,"Bass Pro Shops: The Strike",1,5591,2009,"Piranha Games",Wii,0.44,0.00,0.00,0.03,NULL,NULL,7.6,5,E
+686,"Bass Pro Shops: The Strike",1,5591,2009,"Piranha Games",X360,0.20,0.00,0.00,0.02,63,4,5.8,5,E
+687,"Bass Rise",1,4239,1999,NULL,PS,0.03,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+688,"Bass Strike",1,4260,2001,THQ,PS2,0.14,0.11,0.00,0.04,57,11,5.8,4,E
+689,"Bassmasters 2000",1,4260,1999,NULL,N64,0.11,0.03,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+690,"Bastard!! Utsuro Naru Kamigami no Utsuwa",4,5085,1996,NULL,PS,0.00,0.00,0.20,0.01,NULL,NULL,NULL,NULL,NULL
+691,"Baten Kaitos: Eternal Wings and the Lost Ocean",4,4095,2003,"Monolith Soft",GC,0.21,0.05,0.00,0.01,80,48,9,59,T
+692,"Batman Begins",9,4116,2005,"Eurocom Entertainment Software",GC,0.11,0.03,0.00,0.00,66,38,7.2,10,T
+693,"Batman Begins",9,4116,2005,"Eurocom Entertainment Software",PS2,0.27,0.21,0.00,0.07,64,41,7.3,70,T
+694,"Batman Begins",9,4116,2005,"Eurocom Entertainment Software",XB,0.16,0.04,0.00,0.01,65,56,7.1,21,T
+695,"Batman Begins",9,4116,2005,"Vicarious Visions",GBA,0.12,0.05,0.00,0.00,61,5,6.9,9,E10+
+696,"Batman Beyond: Return of the Joker",9,4106,2000,NULL,N64,0.07,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+697,"Batman Beyond: Return of the Joker",9,4106,2000,Kemco,PS,0.09,0.06,0.00,0.01,NULL,NULL,4.3,7,NULL
+698,"Batman: A Telltale Game Series",11,4940,2016,NULL,PS3,0.01,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+699,"Batman: A Telltale Game Series",11,4940,2016,NULL,PS4,0.03,0.05,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+700,"Batman: A Telltale Game Series",11,4940,2016,NULL,X360,0.01,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+701,"Batman: A Telltale Game Series",11,4940,2016,"Telltale Games",XOne,0.02,0.01,0.00,0.00,NULL,NULL,4.3,7,M
+702,"Batman: Arkham Asylum",9,4877,2009,"Rocksteady Studios",PC,0.00,0.28,0.00,0.05,91,29,8.7,1736,T
+703,"Batman: Arkham Asylum",9,4877,2009,"Rocksteady Studios",PS3,2.24,1.31,0.07,0.61,91,70,8.9,1122,T
+704,"Batman: Arkham Asylum",9,4877,2009,"Rocksteady Studios",X360,2.20,0.95,0.02,0.31,92,78,8.7,1080,T
+705,"Batman: Arkham City",9,5180,2011,"Rocksteady Studios",PC,0.16,0.28,0.00,0.09,91,27,8.6,1847,T
+706,"Batman: Arkham City",9,5180,2011,"Rocksteady Studios",PS3,2.71,1.85,0.11,0.81,96,42,8.6,2162,T
+707,"Batman: Arkham City",9,5180,2011,"Rocksteady Studios",X360,2.99,1.27,0.04,0.42,94,87,8.7,1472,T
+708,"Batman: Arkham City",9,5180,2012,NULL,WiiU,0.16,0.18,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+709,"Batman: Arkham Knight",9,5180,2015,"Rocksteady Studios",PS4,1.53,1.69,0.10,0.64,87,89,7.6,2679,M
+710,"Batman: Arkham Knight",9,5180,2015,"Rocksteady Studios",XOne,0.88,0.47,0.00,0.14,85,16,6.6,694,M
+711,"Batman: Arkham Knight",9,5180,2015,"Rocksteady Studios, Iron Galaxy Studios",PC,0.09,0.03,0.00,0.01,70,14,2.5,1967,M
+712,"Batman: Arkham Origins",9,5180,2013,"Human Head Studios",WiiU,0.19,0.09,0.00,0.03,68,5,7.4,127,T
+713,"Batman: Arkham Origins",9,5180,2013,"Iron Galaxy Studios",PC,0.13,0.16,0.00,0.02,74,17,7.5,1170,T
+714,"Batman: Arkham Origins",9,5180,2013,"WB Games Montreal",PS3,1.07,0.80,0.04,0.38,76,46,7.7,668,T
+715,"Batman: Arkham Origins",9,5180,2013,"WB Games Montreal",X360,1.15,0.56,0.00,0.17,74,46,7.5,685,T
+716,"Batman: Arkham Origins Blackgate",9,5180,2013,"Armature Studio",3DS,0.16,0.09,0.00,0.02,68,7,6.8,38,T
+717,"Batman: Arkham Origins Blackgate",9,5180,2013,"Armature Studio",PSV,0.16,0.17,0.00,0.10,61,38,6.8,106,T
+718,"Batman: Arkham VR",9,5180,2016,"Rocksteady Studios",PS4,0.25,0.00,0.00,0.06,75,59,7.3,89,M
+719,"Batman: Dark Tomorrow",9,5133,2003,HotGen,XB,0.08,0.02,0.00,0.00,25,13,3.6,18,T
+720,"Batman: Dark Tomorrow",9,5133,2003,Kemco,GC,0.06,0.02,0.00,0.00,29,14,3.2,19,T
+721,"Batman: Gotham City Racer",3,4106,2001,NULL,PS,0.03,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+722,"Batman: Return to Arkham",9,5180,2016,"Rocksteady Studios, Virtuos",PS4,0.07,0.16,0.00,0.04,73,28,8.5,79,T
+723,"Batman: Return to Arkham",9,5180,2016,"Rocksteady Studios, Virtuos",XOne,0.05,0.05,0.00,0.01,77,6,8.2,43,T
+724,"Batman: Rise of Sin Tzu",9,4106,2003,Ubisoft,GBA,0.05,0.02,0.00,0.00,63,12,6.8,4,E
+725,"Batman: Rise of Sin Tzu",9,4106,2003,"Ubisoft Montreal",GC,0.05,0.01,0.00,0.00,63,17,tbd,NULL,T
+726,"Batman: Rise of Sin Tzu",9,4106,2003,"Ubisoft Montreal",PS2,0.17,0.13,0.00,0.05,63,21,8.3,14,T
+727,"Batman: Rise of Sin Tzu",9,4106,2003,"Ubisoft Montreal",XB,0.08,0.02,0.00,0.00,67,17,7.7,6,T
+728,"Batman: The Brave and the Bold the Videogame",9,5180,2010,NULL,Wii,0.20,0.05,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+729,"Batman: The Brave and the Bold the Videogame",9,5180,2010,WayForward,DS,0.23,0.04,0.00,0.02,74,14,8,8,E10+
+730,"Batman: Vengeance",11,4106,2001,Ubisoft,PS2,0.27,0.21,0.00,0.07,68,19,6.7,12,T
+731,"Batman: Vengeance",11,4106,2001,"Ubisoft Montreal",GBA,0.13,0.05,0.00,0.00,68,8,tbd,NULL,E
+732,"Batman: Vengeance",11,4106,2001,"Ubisoft Montreal",GC,0.20,0.05,0.00,0.01,70,17,5.8,16,T
+733,"Battalion Wars",12,4095,2005,"Kuju Entertainment",GC,0.25,0.07,0.07,0.01,76,43,8.8,18,T
+734,"Battalion Wars 2",12,4095,2007,"Kuju Entertainment",Wii,0.22,0.02,0.08,0.02,75,38,7.6,45,T
+735,"Battle & Get! Pokemon Typing DS",6,4095,2011,NULL,DS,0.00,0.00,0.29,0.00,NULL,NULL,NULL,NULL,NULL
+736,"Battle Arena Toshinden Remix",10,4274,1994,NULL,SAT,0.00,0.00,0.12,0.00,NULL,NULL,NULL,NULL,NULL
+737,"Battle Arena Toshinden URA",10,4274,1995,NULL,SAT,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+738,"Battle Assault 3 featuring Gundam Seed",9,4239,2004,Natsume,PS2,0.02,0.01,0.00,0.00,48,9,8.7,7,T
+739,"Battle Commander: Hachibushu Shura no Heihou",12,4918,1991,NULL,SNES,0.00,0.00,0.18,0.00,NULL,NULL,NULL,NULL,NULL
+740,"Battle Dodge Ball",1,4918,1991,NULL,SNES,0.00,0.00,0.33,0.00,NULL,NULL,NULL,NULL,NULL
+741,"Battle Engine Aquila",7,4507,2003,"Lost Toys",PS2,0.02,0.01,0.00,0.00,73,17,9,5,T
+742,"Battle Engine Aquila",7,4507,2003,"Lost Toys",XB,0.01,0.00,0.00,0.00,76,28,tbd,NULL,T
+743,"Battle Fantasia",10,4760,2008,"Arc System Works",X360,0.07,0.00,0.01,0.01,71,22,6.6,8,T
+744,"Battle Hunter",12,5494,1999,NULL,PS,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+745,"Battle of Giants: Dinosaurs",12,4106,2008,"Ubisoft Quebec",DS,0.37,0.35,0.00,0.09,NULL,NULL,7.2,9,E
+746,"Battle of Giants: Dinosaurs Strike",12,4106,2010,"Ubisoft Quebec",Wii,0.14,0.03,0.00,0.01,NULL,NULL,tbd,NULL,E10+
+747,"Battle of Giants: Dragons",12,4106,2009,"Ubisoft Quebec",DS,0.30,0.25,0.00,0.06,NULL,NULL,6,4,E10+
+748,"Battle of Giants: Mutant Insects",12,4106,2010,Ubisoft,DS,0.09,0.14,0.00,0.03,NULL,NULL,tbd,NULL,E10+
+749,"Battle Princess of Arcadias",4,4673,2013,ApolloSoft,PS3,0.00,0.00,0.02,0.00,69,22,7.9,25,T
+750,"Battle Soccer: Field no Hasha",1,4918,1992,NULL,SNES,0.00,0.00,0.16,0.00,NULL,NULL,NULL,NULL,NULL
+751,"Battle Spirits: Digital Starter",4,4239,2010,NULL,DS,0.00,0.00,0.04,0.00,NULL,NULL,NULL,NULL,NULL
+752,"Battle Spirits: Hero's Soul",4,4239,2010,NULL,PSP,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+753,"Battle Spirits: Kiseki no Hasha",4,4239,2009,NULL,PSP,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+754,"Battle Stadium D.O.N",10,4239,2006,NULL,GC,0.00,0.00,0.09,0.00,NULL,NULL,NULL,NULL,NULL
+755,"Battle Stadium D.O.N",10,4239,2006,NULL,PS2,0.00,0.00,0.15,0.00,NULL,NULL,NULL,NULL,NULL
+756,"Battle Stations",12,4116,1997,NULL,PS,0.43,0.29,0.00,0.05,NULL,NULL,NULL,NULL,NULL
+757,"Battle vs. Chess",6,5212,2011,"Targem Games, TopWare Interactive",X360,0.00,0.02,0.00,0.00,NULL,NULL,NULL,NULL,T
+758,"Battle vs. Chess",6,5212,N/A,"Targem Games",PC,0.00,0.02,0.00,0.00,69,5,5.9,12,T
+759,"Battle vs. Chess",6,5212,N/A,"Targem Games, TopWare Interactive",PS3,0.00,0.03,0.00,0.01,NULL,NULL,NULL,NULL,T
+760,Battleborn,7,4843,2016,"Gearbox Software",PC,0.04,0.04,0.00,0.01,69,34,6.9,400,T
+761,Battleborn,7,4843,2016,"Gearbox Software",PS4,0.12,0.08,0.02,0.04,68,55,6.8,402,T
+762,Battleborn,7,4843,2016,"Gearbox Software",XOne,0.10,0.04,0.00,0.01,71,20,7.2,171,T
+763,"BattleBots: Beyond the BattleBox",9,5073,2002,"Cave Barn",GBA,0.04,0.01,0.00,0.00,53,7,tbd,NULL,E
+764,"Battlefield 1",7,4116,2016,"EA DICE",PC,0.11,0.24,0.00,0.03,88,54,7.6,1137,M
+765,"Battlefield 1",7,4116,2016,"EA DICE",PS4,1.10,2.15,0.21,0.61,88,31,8.4,809,M
+766,"Battlefield 1",7,4116,2016,"EA DICE",XOne,1.28,0.77,0.00,0.20,87,37,8.2,440,M
+767,"Battlefield 1942",7,4116,2002,"Digital Illusions",PC,0.01,0.01,0.00,0.00,89,27,8.6,327,T
+768,"Battlefield 1942: The WW II Anthology",7,4116,2004,NULL,PC,0.01,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+769,"Battlefield 2",7,4116,2005,"Digital Illusions",PC,0.00,0.07,0.00,0.01,91,55,8.4,837,T
+770,"Battlefield 2142",7,4116,2006,"EA DICE",PC,0.00,0.02,0.00,0.00,80,48,6.8,326,T
+771,"Battlefield 2: Modern Combat",7,4116,2005,"Digital Illusions",PS2,0.37,0.01,0.00,0.06,80,42,8.5,65,T
+772,"Battlefield 2: Modern Combat",7,4116,2005,"Digital Illusions",XB,0.39,0.15,0.00,0.02,80,49,8.2,29,T
+773,"Battlefield 2: Modern Combat",7,4116,2006,"Digital Illusions",X360,0.35,0.02,0.01,0.03,77,54,7.3,79,T
+774,"Battlefield 2: Modern Combat(JP sales)",7,4116,2005,NULL,PS2,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+775,"Battlefield 3",7,4116,2011,"EA DICE",PC,0.89,1.43,0.00,0.46,89,61,7.5,4926,M
+776,"Battlefield 3",7,4116,2011,"EA DICE",PS3,2.85,2.89,0.35,1.08,85,38,7.5,1761,M
+777,"Battlefield 3",7,4116,2011,"EA DICE",X360,4.46,2.11,0.06,0.69,84,57,7.4,2142,M
+778,"Battlefield 4",7,4116,2013,"EA DICE",PC,0.39,0.87,0.00,0.10,81,52,6,3517,M
+779,"Battlefield 4",7,4116,2013,"EA DICE",PS3,1.30,1.42,0.27,0.50,80,14,5.8,579,M
+780,"Battlefield 4",7,4116,2013,"EA DICE",PS4,1.35,1.55,0.17,0.51,85,18,6.9,1580,M
+781,"Battlefield 4",7,4116,2013,"EA DICE",X360,2.15,1.01,0.02,0.31,79,21,5.6,542,M
+782,"Battlefield 4",7,4116,2013,"EA DICE",XOne,1.25,0.58,0.00,0.19,81,5,6.6,480,M
+783,"Battlefield Vietnam",7,4116,2004,"Digital Illusions",PC,0.00,0.02,0.00,0.00,84,48,7.5,133,T
+784,"Battlefield: Bad Company",7,4116,2008,"EA DICE",PS3,0.76,0.35,0.05,0.18,84,50,8.1,203,T
+785,"Battlefield: Bad Company",7,4116,2008,"EA DICE",X360,0.81,0.46,0.04,0.15,83,70,7.7,263,T
+786,"Battlefield: Bad Company 2",7,4116,2010,"EA DICE",PC,0.19,0.53,0.00,0.00,87,46,8.3,1467,M
+787,"Battlefield: Bad Company 2",7,4116,2010,"EA DICE",PS3,1.33,1.10,0.08,0.44,88,59,8.5,572,M
+788,"Battlefield: Bad Company 2",7,4116,2010,"EA DICE",X360,2.10,1.01,0.04,0.32,88,75,8.6,869,M
+789,"Battlefield: Hardline",7,4116,2015,"Visceral Games",PC,0.00,0.13,0.00,0.01,71,31,3.8,773,M
+790,"Battlefield: Hardline",7,4116,2015,"Visceral Games",PS3,0.13,0.15,0.07,0.06,NULL,NULL,5.3,81,M
+791,"Battlefield: Hardline",7,4116,2015,"Visceral Games",PS4,0.71,0.94,0.14,0.32,73,46,5,845,M
+792,"Battlefield: Hardline",7,4116,2015,"Visceral Games",X360,0.17,0.09,0.00,0.03,NULL,NULL,4.1,65,M
+793,"Battlefield: Hardline",7,4116,2015,"Visceral Games",XOne,0.72,0.37,0.01,0.11,71,27,5.1,299,M
+794,BattleForge,12,4116,2009,"EA Phenomic",PC,0.00,0.01,0.00,0.00,75,37,7,112,T
+795,"Battles of Prince of Persia",12,4106,2005,"Ubisoft Montreal",DS,0.10,0.01,0.00,0.01,64,16,7.7,14,E10+
+796,"Battlestar Galactica",7,5073,2003,Warthog,PS2,0.08,0.06,0.00,0.02,66,22,6.8,6,T
+797,"Battlestar Galactica",7,5073,2003,Warthog,XB,0.06,0.02,0.00,0.00,63,25,tbd,NULL,T
+798,"Battlestations: Midway",12,4877,2007,"Eidos Interactive",PC,0.00,0.01,0.00,0.00,76,20,7.3,46,T
+799,"Battlestations: Midway",12,4877,2007,"Eidos Interactive",X360,0.21,0.02,0.00,0.02,73,55,7.1,40,T
+800,"Battlestations: Pacific",12,4877,2009,"Eidos Interactive",PC,0.00,0.02,0.00,0.00,74,31,8.4,46,T
+801,"Battlestations: Pacific",12,4877,2009,"Eidos Interactive",X360,0.17,0.11,0.01,0.03,76,48,7.4,41,T
+802,BattleTanx,9,4827,1998,NULL,N64,0.26,0.06,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+803,"BattleTanx: Global Assault",9,4827,1999,NULL,N64,0.31,0.07,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+804,Battlezone,7,4507,1982,NULL,2600,0.58,0.03,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+805,Battlezone,7,4507,2006,"Paradigm Entertainment",PSP,0.02,0.00,0.00,0.00,57,13,tbd,NULL,E10+
+806,Bayonetta,9,4274,2009,"Nex Entertainment",PS3,0.44,0.39,0.21,0.16,87,54,7.7,355,M
+807,Bayonetta,9,4274,2009,PlatinumGames,X360,0.51,0.25,0.09,0.08,90,86,8,597,M
+808,"Bayonetta 2",9,4095,2014,PlatinumGames,WiiU,0.32,0.28,0.10,0.06,91,80,8.2,1217,M
+809,"BCFX: The Black College Football Xperience, The Doug Williams Edition",1,5067,2009,NULL,X360,0.15,0.00,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+810,"Beach Spikers: Virtua Beach Volleyball",1,4274,2002,"Sega AM2",GC,0.08,0.02,0.00,0.00,76,31,8.1,9,E
+811,Beamrider,3,4336,1984,NULL,2600,0.26,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+812,"Beastly Frantic Foto",5,4709,2011,"7Raven Studios",DS,0.04,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+813,"Beat City",6,4260,2010,Universomo,DS,0.06,0.00,0.00,0.00,70,7,tbd,NULL,E
+814,"Beat Down: Fists of Vengeance",9,4142,2005,"Cavia Inc.",PS2,0.04,0.03,0.09,0.01,48,33,8.1,12,M
+815,"Beatdown: Fists of Vengeance",9,4142,2005,NULL,XB,0.03,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+816,Beaterator,6,4843,2009,"Rockstar Leeds",PSP,0.06,0.02,0.00,0.02,80,44,7.8,12,E
+817,"Beautiful Katamari",5,4239,2007,"Now Production",X360,0.14,0.02,0.15,0.02,73,52,7,40,E
+818,"Bee Movie Game",9,4336,2007,Beenox,PS2,0.05,0.04,0.00,0.01,65,11,7.5,4,E
+819,"Bee Movie Game",9,4336,2007,Beenox,X360,0.16,0.00,0.00,0.01,71,25,5.8,13,E
+820,"Bee Movie Game",9,4336,2007,"Smart Bomb Interactive",Wii,0.30,0.01,0.00,0.03,62,16,7.6,7,E
+821,"Bee Movie Game",9,4336,2007,"Vicarious Visions",DS,0.41,0.00,0.00,0.03,58,9,tbd,NULL,E
+822,"Beetle Adventure Racing!",3,4116,1999,NULL,N64,0.40,0.20,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+823,"Beijing 2008",1,4274,2008,NULL,PS3,0.14,0.54,0.01,0.18,NULL,NULL,NULL,NULL,NULL
+824,"Beijing 2008",1,4274,2008,NULL,X360,0.15,0.38,0.00,0.07,NULL,NULL,NULL,NULL,NULL
+825,"Bejeweled Blitz",5,5666,2010,PopCap,PC,0.00,0.01,0.00,0.00,NULL,NULL,tbd,NULL,E
+826,"Bella Sara",6,4388,2008,"Razorback Developments",DS,0.04,0.03,0.00,0.01,NULL,NULL,tbd,NULL,E
+827,"Ben 10 Alien Force: Vilgax Attacks",9,4786,2009,D3Publisher,DS,0.22,0.16,0.00,0.04,NULL,NULL,tbd,NULL,E
+828,"Ben 10 Alien Force: Vilgax Attacks",9,4786,2009,"Papaya Studios",PS2,0.11,0.03,0.00,0.15,NULL,NULL,7,4,E10+
+829,"Ben 10 Alien Force: Vilgax Attacks",9,4786,2009,"Papaya Studios",PSP,0.13,0.19,0.00,0.11,NULL,NULL,tbd,NULL,E10+
+830,"Ben 10 Alien Force: Vilgax Attacks",9,4786,2009,"Papaya Studios",Wii,0.25,0.14,0.00,0.04,65,5,4,6,E10+
+831,"Ben 10 Alien Force: Vilgax Attacks",9,4786,2009,"Papaya Studios",X360,0.11,0.09,0.00,0.02,61,9,8.3,4,E10+
+832,"Ben 10 Galactic Racing",3,4786,2011,"Monkey Bar Games",3DS,0.07,0.07,0.00,0.01,NULL,NULL,tbd,NULL,E
+833,"Ben 10 Galactic Racing",3,4786,2011,"Monkey Bar Games",PS3,0.06,0.02,0.00,0.01,NULL,NULL,tbd,NULL,E
+834,"Ben 10 Galactic Racing",3,4786,2011,"Monkey Bar Games",Wii,0.08,0.03,0.00,0.01,NULL,NULL,tbd,NULL,E
+835,"Ben 10 Galactic Racing",3,4786,2011,"Monkey Bar Games",X360,0.07,0.02,0.00,0.01,NULL,NULL,tbd,NULL,E
+836,"Ben 10 Galactic Racing",3,4786,2011,Tantatus,DS,0.09,0.03,0.00,0.01,NULL,NULL,tbd,NULL,E
+837,"Ben 10 Galactic Racing",3,4786,2012,"Monkey Bar Games",PSV,0.02,0.01,0.00,0.01,NULL,NULL,3.8,8,E
+838,"Ben 10 Omniverse 2",9,4239,2013,"1st Playable Productions",3DS,0.00,0.02,0.00,0.00,NULL,NULL,7.6,5,E10+
+839,"Ben 10 Omniverse 2",9,4239,2013,"High Voltage Software",X360,0.00,0.01,0.00,0.00,NULL,NULL,5.1,9,E10+
+840,"Ben 10 Triple Pack",6,4786,2011,D3Publisher,DS,0.12,0.11,0.00,0.02,NULL,NULL,tbd,NULL,E10+
+841,"Ben 10 Ultimate Alien: Cosmic Destruction",2,4786,2010,"Griptonite Games",DS,0.22,0.08,0.00,0.03,NULL,NULL,tbd,NULL,E10+
+842,"Ben 10 Ultimate Alien: Cosmic Destruction",2,4786,2010,"Papaya Studios",PS2,0.13,0.06,0.00,0.04,NULL,NULL,tbd,NULL,E10+
+843,"Ben 10 Ultimate Alien: Cosmic Destruction",2,4786,2010,"Papaya Studios",PS3,0.12,0.08,0.00,0.04,NULL,NULL,8.6,5,E10+
+844,"Ben 10 Ultimate Alien: Cosmic Destruction",2,4786,2010,"Papaya Studios",PSP,0.10,0.09,0.00,0.05,NULL,NULL,tbd,NULL,E10+
+845,"Ben 10 Ultimate Alien: Cosmic Destruction",2,4786,2010,"Papaya Studios",Wii,0.17,0.09,0.00,0.02,NULL,NULL,tbd,NULL,E10+
+846,"Ben 10 Ultimate Alien: Cosmic Destruction",2,4786,2010,"Papaya Studios",X360,0.10,0.06,0.00,0.02,51,5,5.3,4,E10+
+847,"Ben 10: Protector of Earth",9,4786,2007,NULL,DS,0.68,0.82,0.00,0.19,NULL,NULL,NULL,NULL,NULL
+848,"Ben 10: Protector of Earth",9,4786,2007,"High Voltage Software",PS2,0.09,0.00,0.00,0.74,NULL,NULL,7.6,14,E10+
+849,"Ben 10: Protector of Earth",9,4786,2007,"High Voltage Software",PSP,0.23,0.30,0.00,0.18,60,4,7.2,23,E10+
+850,"Ben 10: Protector of Earth",9,4786,2007,"High Voltage Software",Wii,0.54,0.55,0.00,0.13,63,6,7.7,9,E10+
+851,"Beowulf: The Game",9,4106,2007,Ubisoft,PS3,0.14,0.01,0.00,0.01,51,18,5.2,17,M
+852,"Beowulf: The Game",9,4106,2007,"Ubisoft Shanghai",X360,0.36,0.01,0.00,0.03,51,23,4.7,30,M
+853,"Beowulf: The Game",9,4106,2007,Virtuos,PSP,0.08,0.00,0.00,0.01,44,4,5.4,7,M
+854,Berzerk,7,4507,1981,NULL,2600,0.68,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+855,"Best Friends Tonight",6,4106,2010,Ubisoft,DS,0.03,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E10+
+856,"Best Of Tests",5,5489,2008,NULL,DS,0.01,0.00,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+857,"Betty Boop's Double Shift",5,5718,2007,"DSI Games",DS,0.03,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+858,"Beyblade Burst",4,4977,2016,NULL,3DS,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+859,"Beyblade Evolution",9,5526,2013,"Rising Star Games",3DS,0.02,0.01,0.00,0.00,49,7,6.3,4,E
+860,"Beyblade G-Revolution",9,4507,2004,"Full Fat",GBA,0.15,0.05,0.00,0.00,40,5,7.8,5,E
+861,"BeyBlade VForce: Super Tournament Battle",9,4507,2002,Takara,GC,0.16,0.04,0.00,0.01,33,6,7.5,18,E
+862,"Beyblade VForce: Ultimate Blader Jam",9,4507,2003,Takara,GBA,0.52,0.19,0.00,0.01,NULL,NULL,tbd,NULL,E
+863,"Beyblade: Metal Fusion",4,4110,2009,"Hudson Soft",DS,0.07,0.03,0.14,0.01,36,4,tbd,NULL,E
+864,"Beyond Good & Evil",11,4106,2003,NULL,GC,0.06,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+865,"Beyond Good & Evil",11,4106,2003,NULL,PS2,0.16,0.13,0.00,0.04,NULL,NULL,NULL,NULL,NULL
+866,"Beyond Good & Evil",11,4106,2003,NULL,XB,0.08,0.02,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+867,"Beyond Oasis",4,4274,1993,NULL,GEN,0.00,0.00,0.05,0.00,NULL,NULL,NULL,NULL,NULL
+868,"Bicycle Casino 2005",6,5718,2004,NULL,XB,0.17,0.05,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+869,"Big Air Freestyle",3,4507,2002,"Paradigm Entertainment",GC,0.04,0.01,0.00,0.00,56,12,tbd,NULL,T
+870,"Big Bang Mini",7,5553,2009,"Arkedo Studio",DS,0.05,0.00,0.00,0.00,78,39,8.2,26,E
+871,"Big Bass Fishing",9,4843,2002,Coresoft,PS,0.00,0.00,0.02,0.00,NULL,NULL,7.2,6,E
+872,"Big Bass World Championship",1,4861,1997,NULL,PS,0.20,0.14,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+873,"Big Beach Sports",1,4260,2008,"HB Studios Multimedia",Wii,0.45,1.02,0.00,0.20,44,17,8,41,E
+874,"Big Beach Sports 2",1,4260,N/A,"Jet Black Games",Wii,0.09,0.11,0.00,0.02,NULL,NULL,tbd,NULL,E
+875,"Big Brain Academy",6,4095,2005,Nintendo,DS,1.66,2.75,1.60,0.62,74,45,7.4,27,E
+876,"Big Brain Academy: Wii Degree",6,4095,2007,Nintendo,Wii,1.05,1.91,0.41,0.42,68,33,6.9,39,E
+877,"Big Family Games",6,4260,2009,NULL,Wii,0.00,0.22,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+878,"Big League Sports",1,4336,2008,"Koolhaus Games",Wii,0.09,0.01,0.00,0.01,NULL,NULL,1.4,10,E
+879,"Big League Sports",1,4336,2011,Activision,X360,0.18,0.01,0.00,0.02,NULL,NULL,tbd,NULL,E
+880,"Big League Sports: Summer",1,4336,2009,"Koolhaus Games",DS,0.09,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+881,"Big League Sports: Summer",1,4336,2009,"Koolhaus Games",Wii,0.09,0.00,0.00,0.01,NULL,NULL,tbd,NULL,E
+882,"Big Mountain 2000",1,5525,1998,NULL,N64,0.02,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+883,"Big Mutha Truckers",3,4984,2002,Eutechnyx,PS2,0.41,0.32,0.00,0.11,62,15,5.3,20,T
+884,"Big Mutha Truckers",3,4984,2002,Eutechnyx,XB,0.15,0.04,0.00,0.01,59,12,4.3,9,T
+885,"Big Mutha Truckers",3,4984,2003,Eutechnyx,GC,0.06,0.02,0.00,0.00,63,5,8.2,6,T
+886,"Big Mutha Truckers",3,5718,2005,NULL,GBA,0.03,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+887,"Big Mutha Truckers 2",3,4984,2005,Eutechnyx,XB,0.05,0.02,0.00,0.00,50,31,3.4,5,M
+888,"Bigfoot King of Crush",3,4807,2011,"Zoo Games",Wii,0.02,0.00,0.00,0.00,NULL,NULL,tbd,NULL,E
+889,"Bigfoot: Collision Course",3,5718,2008,"Destination Software",Wii,0.30,0.00,0.00,0.02,NULL,NULL,tbd,NULL,E
+890,"Bigfoot: Collision Course",3,5718,2009,"Destination Software",DS,0.14,0.00,0.00,0.01,26,4,tbd,NULL,E
+891,"Billy Hatcher and the Giant Egg",2,4274,2003,"Sonic Team",GC,0.19,0.05,0.00,0.01,71,37,8.7,31,E
+892,"Binary Domain",9,4274,2012,Sega,PS3,0.09,0.07,0.14,0.03,72,33,8.2,179,M
+893,"Binary Domain",9,4274,2012,Sega,X360,0.09,0.06,0.02,0.02,74,43,8,185,M
+894,"Binary Star",11,5319,2014,NULL,PSV,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+895,"Biohazard: Revival Selection",9,4142,2011,NULL,PS3,0.00,0.00,0.18,0.00,NULL,NULL,NULL,NULL,NULL
+896,"Biohazard: Revival Selection",9,4142,2011,NULL,X360,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+897,"Bionic Commando",2,4142,2009,GRIN,PS3,0.12,0.17,0.01,0.06,71,48,7.4,62,M
+898,"Bionic Commando",2,4142,2009,GRIN,X360,0.12,0.12,0.01,0.03,70,65,7.3,87,M
+899,Bionicle,9,4116,2003,"Argonaut Games",GC,0.16,0.04,0.00,0.01,47,5,4.2,5,E
+900,Bionicle,9,4116,2003,"Argonaut Games",PS2,0.21,0.17,0.00,0.06,51,7,3.6,16,E
+901,Bionicle,9,4116,2003,"Argonaut Games",XB,0.05,0.01,0.00,0.00,49,5,1.5,4,E
+902,Bionicle,9,4260,2003,"Mobius Entertainment",GBA,0.06,0.02,0.00,0.00,NULL,NULL,tbd,NULL,E
+903,"Bionicle Heroes",7,4877,2006,"Amaze Entertainment",DS,0.06,0.00,0.00,0.00,72,11,6.4,15,T
+904,"Bionicle Heroes",7,4877,2006,"Traveller's Tales",GC,0.08,0.02,0.00,0.00,51,4,5.2,5,E10+
+905,"Bionicle Heroes",7,4877,2006,"Traveller's Tales",X360,0.05,0.01,0.00,0.01,59,26,5.9,22,E10+
+906,"Bionicle Heroes",7,4877,2007,"Traveller's Tales",Wii,0.03,0.00,0.00,0.00,52,7,5.8,5,E10+
+907,"Bionicle: Matoran Adventures",2,4116,2002,NULL,GBA,0.18,0.07,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+908,BioShock,7,4843,2007,"Irrational Games, 2K Marin",PC,0.01,0.39,0.00,0.02,96,44,8.5,3606,M
+909,BioShock,7,4843,2007,"Irrational Games, 2K Marin",X360,1.65,0.85,0.05,0.28,96,88,8.9,2249,M
+910,BioShock,7,4843,2008,"Digital Extremes, 2K Marin",PS3,0.75,0.46,0.01,0.20,94,51,8.7,881,M
+911,"BioShock 2",7,4843,2010,"2K Marin",PS3,0.85,0.46,0.02,0.22,88,62,8.2,492,M
+912,"BioShock 2",7,4843,2010,"2K Marin",X360,1.45,0.54,0.02,0.19,88,93,8.2,573,M
+913,"BioShock 2",7,4843,N/A,"2K Marin",PC,0.02,0.19,0.00,0.04,88,36,8,1247,M
+914,"BioShock Infinite",7,4843,2013,"Irrational Games",PC,0.29,0.30,0.00,0.07,94,68,8.5,7322,M
+915,"BioShock Infinite",7,4843,2013,"Irrational Games",PS3,0.72,0.65,0.04,0.28,94,27,8.5,1863,M
+916,"BioShock Infinite",7,4843,2013,"Irrational Games",X360,1.22,0.54,0.02,0.16,93,33,8.5,1647,M
+917,"BioShock The Collection",7,4843,2016,"2K Games",PS4,0.10,0.19,0.02,0.06,84,39,8.5,210,M
+918,"BioShock The Collection",7,4843,2016,"2K Games",XOne,0.08,0.06,0.00,0.01,84,16,8.3,79,M
+919,"Birthday Party Bash",6,4843,2009,"Cat Daddy Games",Wii,0.29,0.00,0.00,0.02,NULL,NULL,3,4,E
+920,"Bishoujo Senshi Sailormoon R",10,4239,1993,NULL,SNES,0.00,0.00,0.27,0.00,NULL,NULL,NULL,NULL,NULL
+921,"Bishoujo Senshi Sailormoon S: Juugai Rantou!? Shuyaku Soudatsusen",10,4246,1994,NULL,SNES,0.00,0.00,0.12,0.00,NULL,NULL,NULL,NULL,NULL
+922,"BIT.TRIP COMPLETE",6,5526,2011,"Gaijin Games",Wii,0.06,0.02,0.00,0.01,84,19,8.7,18,E
+923,"BIT.TRIP SAGA",6,5526,2011,"Gaijin Games",3DS,0.09,0.04,0.00,0.01,75,21,7.8,24,E
+924,Black,7,4116,2006,"Criterion Games",PS2,1.01,0.04,0.03,0.16,79,62,8.4,194,M
+925,Black,7,4116,2006,"Criterion Games",XB,0.31,0.09,0.00,0.01,77,65,8,51,M
+926,"Black & Bruised",10,5073,2003,NULL,GC,0.04,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+927,"Black & Bruised",10,5073,2003,NULL,PS2,0.08,0.06,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+928,"Black & White",12,4116,2001,NULL,PC,0.00,0.04,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+929,"Black & White 2",12,4116,2005,NULL,PC,0.01,0.07,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+930,"Black Bass with Blue Marlin",1,4861,1999,NULL,PS,0.06,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+931,"Black Cat",9,4142,2006,NULL,PS2,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+932,"Black Mirror 2",11,5405,2009,NULL,PC,0.00,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+933,"Black Rose Valkyrie",4,5319,2016,NULL,PS4,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+934,"Black Stone: Magic & Steel",4,4260,2003,NULL,XB,0.03,0.01,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+935,Black/Matrix,12,5654,1998,NULL,SAT,0.00,0.00,0.08,0.00,NULL,NULL,NULL,NULL,NULL
+936,Blackthorne,9,4336,2003,"Mass Media",GBA,0.01,0.00,0.00,0.00,67,10,7.6,5,T
+937,Blackwater,7,4760,2011,"Zombie Studios",X360,0.09,0.02,0.00,0.01,37,12,4.5,14,T
+938,"Blade Arcus from Shining EX",10,4274,2015,NULL,PS3,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+939,"Blade Arcus from Shining EX",10,4274,2015,NULL,PS4,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+940,"Blade Dancer: Lineage of Light",4,4507,2006,"Hit Maker",PSP,0.05,0.00,0.00,0.00,60,33,6.9,16,E10+
+941,"Blade II",9,4336,2002,"Mucky Foot Productions",PS2,0.15,0.12,0.00,0.04,49,21,6.1,14,M
+942,"Blade II",9,4336,2002,"Mucky Foot Productions",XB,0.10,0.03,0.00,0.00,53,20,4,4,M
+943,"Blast Chamber",7,4336,1996,NULL,PS,0.05,0.04,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+944,"Blast Corps",9,4095,1997,NULL,N64,0.39,0.09,0.17,0.06,NULL,NULL,NULL,NULL,NULL
+945,"Blast Radius",9,4787,1998,NULL,PS,0.04,0.03,0.00,0.00,NULL,NULL,NULL,NULL,NULL
+946,"Blast Works: Build, Trade, Destroy",7,4877,2008,BudCat,Wii,0.09,0.00,0.00,0.01,78,30,7.7,17,E
+947,"Blaster Master: Blasting Again",7,4872,2000,NULL,PS,0.14,0.10,0.00,0.02,NULL,NULL,NULL,NULL,NULL
+948,"BlazBlue Central Fiction",10,5601,2016,"Arc System Works",PS3,0.02,0.02,0.02,0.01,NULL,NULL,tbd,NULL,T
+949,"BlazBlue Central Fiction",10,5601,2016,"Arc System Works",PS4,0.04,0.00,0.03,0.01,85,21,7.6,39,T
+950,"BlazBlue: Calamity Trigger",10,5601,2009,"Arc System Works",PS3,0.36,0.10,0.06,0.06,87,50,8.4,112,T
+951,"BlazBlue: Calamity Trigger",10,5601,2009,"Arc System Works",X360,0.21,0.08,0.04,0.03,86,51,8.5,70,T
+952,"BlazBlue: Calamity Trigger",10,5601,2010,"Arc System Works",PC,0.00,0.01,0.00,0.00,NULL,NULL,8.7,26,T
+953,"BlazBlue: Calamity Trigger Portable",10,5601,2010,"Arc System Works",PSP,0.07,0.01,0.03,0.01,82,14,7.8,18,T
+954,"BlazBlue: Chrono Phantasma",10,4590,2013,"Arc System Works",PS3,0.14,0.00,0.14,0.03,83,16,8.3,64,T
+955,"BlazBlue: Chrono Phantasma",10,4590,2014,"Arc System Works",PSV,0.03,0.00,0.03,0.01,NULL,NULL,7.8,28,T
+956,"BlazBlue: Chrono Phantasma Extend",9,5601,2015,"Arc System Works",PS3,0.00,0.00,0.04,0.00,NULL,NULL,8.3,10,T
+957,"BlazBlue: Chrono Phantasma Extend",9,5601,2015,"Arc System Works",PS4,0.07,0.03,0.02,0.02,80,10,7.7,31,T
+958,"BlazBlue: Chrono Phantasma Extend",9,5601,2015,"Arc System Works",PSV,0.00,0.02,0.00,0.01,NULL,NULL,6.8,13,T
+959,"BlazBlue: Chrono Phantasma Extend",9,5601,2015,"Arc System Works",XOne,0.05,0.01,0.00,0.01,NULL,NULL,6.3,4,T
+960,"BlazBlue: Continuum Shift",10,5601,2010,"Arc System Works",PS3,0.21,0.07,0.09,0.04,87,29,8,65,T
+961,"BlazBlue: Continuum Shift",10,5601,2010,"Arc System Works",X360,0.23,0.04,0.02,0.02,85,32,8.7,26,T
+962,"Blazblue: Continuum Shift Extend",10,5601,2011,"Arc System Works",PS3,0.00,0.00,0.09,0.00,73,6,7.5,27,T
+963,"Blazblue: Continuum Shift Extend",10,5601,2011,"Arc System Works",PSV,0.03,0.05,0.02,0.02,83,28,7.5,97,T
+964,"Blazblue: Continuum Shift Extend",10,4590,2012,NULL,PSP,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+965,"BlazBlue: Continuum Shift II",10,5601,2011,"Arc System Works",3DS,0.05,0.01,0.04,0.01,64,14,6.1,19,T
+966,"BlazBlue: Continuum Shift II",10,5601,2011,"Arc System Works",PSP,0.03,0.02,0.07,0.01,77,8,6.8,10,T
+967,"Blaze Union: Story to Reach the Future",4,5196,2010,NULL,PSP,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+968,"Blazer Drive",4,4274,2008,NULL,DS,0.00,0.00,0.01,0.00,NULL,NULL,NULL,NULL,NULL
+969,"Blazing Angels 2: Secret Missions of WWII",8,4106,2007,"Ubisoft Romania",PS3,0.10,0.03,0.00,0.02,70,10,7.2,12,T
+970,"Blazing Angels 2: Secret Missions of WWII",8,4106,2007,"Ubisoft Romania",X360,0.11,0.02,0.00,0.01,72,24,7.8,12,T
+971,"Blazing Angels: Squadrons of WWII",8,4106,2006,Ubisoft,PS3,0.35,0.22,0.00,0.10,67,26,6.9,9,T
+972,"Blazing Angels: Squadrons of WWII",8,4106,2006,Ubisoft,X360,0.36,0.02,0.00,0.03,66,58,7.9,53,T
+973,"Blazing Angels: Squadrons of WWII",8,4106,2006,"Ubisoft Romania",PC,0.02,0.00,0.00,0.00,65,16,4.6,17,T
+974,"Blazing Angels: Squadrons of WWII",8,4106,2006,"Ubisoft Romania",XB,0.06,0.02,0.00,0.00,69,19,6.8,4,T
+975,"Blazing Angels: Squadrons of WWII",8,4106,2007,Ubisoft,Wii,0.74,0.04,0.00,0.06,57,11,6.7,28,T
+976,"Blazing Dragons",11,4392,1996,NULL,PS,0.08,0.06,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+977,"Blazing Heroes",4,4274,1995,NULL,SAT,0.00,0.00,0.30,0.00,NULL,NULL,NULL,NULL,NULL
+978,"Blazing Souls",4,5319,2006,NULL,PS2,0.00,0.00,0.02,0.00,NULL,NULL,NULL,NULL,NULL
+979,"Blazing Souls: Accelate",4,5319,2009,"Neverland, Idea Factory",PSP,0.04,0.00,0.01,0.00,NULL,NULL,7.8,17,T
+980,"Bleach DS 4th: Flame Bringer",9,4274,2009,NULL,DS,0.00,0.00,0.03,0.00,NULL,NULL,NULL,NULL,NULL
+981,"Bleach GC: Tasogare Ni Mamieru Shinigami",10,4274,2005,NULL,GC,0.00,0.00,0.08,0.00,NULL,NULL,NULL,NULL,NULL
+982,"Bleach: Dark Souls",10,4274,2007,Treasure,DS,0.12,0.02,0.00,0.01,82,28,7.9,14,T
+983,"Bleach: Dark Souls (JP sales)",10,4274,2007,NULL,DS,0.00,0.00,0.10,0.00,NULL,NULL,NULL,NULL,NULL
+984,"Bleach: Shattered Blade",10,4274,2006,"Polygon Magic",Wii,0.21,0.01,0.08,0.02,58,30,7.5,24,T
+985,"Bleach: Soul Resurreccion",10,4673,2011,Racjin,PS3,0.27,0.10,0.07,0.05,58,34,7.2,46,T
+986,"Bleach: The 3rd Phantom",4,4274,2008,"Sega, Tom Create",DS,0.10,0.02,0.07,0.01,59,28,8,10,T
+987,"Bleach: The Blade of Fate",10,4274,2006,Treasure,DS,0.29,0.01,0.12,0.03,83,32,7.5,23,T
+988,"Bleach: Versus Crusade",10,4274,2008,NULL,Wii,0.00,0.00,0.06,0.00,NULL,NULL,NULL,NULL,NULL
+989,"Blinx 2: Masters of Time & Space",2,4470,2004,NULL,XB,0.12,0.03,0.00,0.01,NULL,NULL,NULL,NULL,NULL
+990,"Blinx: The Time Sweeper",2,4470,2002,Artoon,XB,0.39,0.15,0.00,0.02,71,36,8,41,E
+991,"Blitzkrieg 2 Anthology",12,5580,2008,"1C, Various, 1C Company",PC,0.00,0.01,0.00,0.00,NULL,NULL,tbd,NULL,NULL
+992,"Block Party",6,4336,2008,Activision,Wii,0.14,0.00,0.00,0.01,NULL,NULL,2.8,4,E10+
+993,"Blood Drive",3,4336,2010,"Sidhe Interactive",PS3,0.07,0.00,0.00,0.01,47,11,7,5,M
+994,"Blood Drive",3,4336,2010,"Sidhe Interactive",X360,0.09,0.01,0.00,0.01,40,21,6.5,10,M
+995,"Blood of Bahamut",4,4140,2009,NULL,DS,0.00,0.00,0.09,0.00,NULL,NULL,NULL,NULL,NULL
+996,"Blood Omen 2",9,4877,2002,"Crystal Dynamics",GC,0.04,0.01,0.00,0.00,71,15,tbd,NULL,M
+997,"Blood Omen 2",9,4877,2002,"Crystal Dynamics",PS2,0.19,0.15,0.00,0.05,67,18,8.8,19,M
+998,"Blood Omen 2",9,4877,2002,"Crystal Dynamics",XB,0.14,0.04,0.00,0.01,76,22,9,9,M
+999,"Blood Omen: Legacy of Kain",4,4392,1996,NULL,PS,0.25,0.17,0.00,0.03,NULL,NULL,NULL,NULL,NULL
+1000,"Blood Wake",7,4470,2001,"Stormfront Studios",XB,0.43,0.12,0.00,0.02,71,30,7.5,13,T
